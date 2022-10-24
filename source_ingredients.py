@@ -9,7 +9,21 @@
 import argparse
 
 #----------------------------------------------------------------#
+def set_cmd_args():
+    parser = argparse.ArgumentParser(description=
+        'Retrieves nutrient data for provided food items.',
+        allow_abbrev=False)
+    parser.add_argument("food items", metavar="food_list",
+        help="the list of of dictionary food items and their categories")
+    return parser
+#----------------------------------------------------------------#
 def main():
+    parser = set_cmd_args()
+    args = parser.parse_args()
+    food_list = args.food_list
+    # structure 
+    # [ { name: "bacon", category: "Meat" }, 
+    # { name: "pork chop", category: "Meat" }] 
     # connect to API
 
 
