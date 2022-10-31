@@ -17,7 +17,7 @@ import generate_plan as gen_plan
 def main():
     # Open a socket and accept all connection requests
     try:
-        gen_plan.app.run(host='0.0.0.0', port="5000")
+        gen_plan.app.run(host='0.0.0.0', port="5000", ssl_context=("cert.pem", "key.pem"))
 
     except Exception as ex:
         print(ex, file=sys.stderr)
