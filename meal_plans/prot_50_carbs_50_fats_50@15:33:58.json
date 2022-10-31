@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "PUMPKIN SEEDS 600cal 30g ",
+            "YELLOW ONIONS 30cal 148g ",
+            "ZUCCHINI 21cal 95g "
+        ],
+        "lunch": [
+            "SALMON 232cal 142g ",
+            "Fried mushrooms 222cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "BRIE 357cal 28g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "SALMON 232cal 142g ",
+            "Lamb, chop 264cal ~g ",
+            "BASIL 0cal 0g "
+        ],
+        "lunch": [
+            "GOAT CHEESE 386cal 28g ",
+            "Cabbage, kimchi 15cal ~g ",
+            "ASPARAGUS 18cal 85g "
+        ],
+        "dinner": [
+            "BLACKBERRIES 71cal 140g ",
+            "GROUND TURKEY 196cal 112g ",
+            "FARMER CHEESE 92cal 142g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "Bacon strip, meatless 309cal ~g "
+        ],
+        "lunch": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "SOURCREAM 167cal 30g ",
+            "SPINACH 24cal 85g "
+        ],
+        "dinner": [
+            "GUACAMOLE 89cal 28g ",
+            "TACO SEASONING 350cal 4g ",
+            "Pork Loin Chop Boneless 134cal 112g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "GOAT CHEESE 386cal 28g ",
+            "Fried mushrooms 222cal ~g ",
+            "Beer, low carb 27cal ~g "
+        ],
+        "lunch": [
+            "FLOUNDER 118cal 85g ",
+            "FLOUNDER 118cal 85g ",
+            "YELLOW ONIONS 30cal 148g "
+        ],
+        "dinner": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "BLUEBERRIES 50cal 140g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM 208cal 202g ",
+            "Carrots, raw 41cal ~g ",
+            "SMOKED SALMON 163cal 43g "
+        ],
+        "lunch": [
+            "CHICKEN THIGH 193cal 114g ",
+            "ASPARAGUS 18cal 85g ",
+            "Cheese, parmesan, grated 420cal ~g "
+        ],
+        "dinner": [
+            "CHICKEN WINGS 283cal 113g ",
+            "Romaine lettuce, raw 15cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Coconut milk 31cal ~g ",
+            "RED ONION 30cal 148g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g "
+        ],
+        "lunch": [
+            "RASPBERRIES 50cal 140g ",
+            "Hot dog, turkey 223cal ~g ",
+            "SALAMI 393cal 28g "
+        ],
+        "dinner": [
+            "FETA CHEESE 286cal 28g ",
+            "2% MILK 50cal 240g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ]
+    }
+}

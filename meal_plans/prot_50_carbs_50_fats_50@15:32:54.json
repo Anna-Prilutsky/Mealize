@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "SPINACH 24cal 85g ",
+            "SALAMI 393cal 28g "
+        ],
+        "lunch": [
+            "RASPBERRIES 50cal 140g ",
+            "BLUEBERRIES 50cal 140g ",
+            "SHRIMP 47cal 85g "
+        ],
+        "dinner": [
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g ",
+            "CILANTRO 0cal 1g ",
+            "RED ONION 30cal 148g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Soy milk 53cal ~g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g ",
+            "BLACKBERRIES 71cal 140g "
+        ],
+        "lunch": [
+            "BARBEQUE SAUCE 161cal 31g ",
+            "FETA CHEESE 286cal 28g ",
+            "Cabbage, kimchi 15cal ~g "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "Tomato chili sauce 92cal ~g ",
+            "SMOKED SALMON 163cal 43g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "HEAVY CREAM 333cal 15g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "lunch": [
+            "ARUGULA 24cal 85g ",
+            "TURKEY BACON 179cal 14g ",
+            "GUACAMOLE 89cal 28g "
+        ],
+        "dinner": [
+            "HEAVY CREAM 333cal 15g ",
+            "Carrots, raw 41cal ~g ",
+            "WHOLE MILK 62cal 240g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "Cheese, parmesan, grated 420cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "SHRIMP 47cal 85g ",
+            "Tomatoes, raw 20cal ~g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ],
+        "dinner": [
+            "BLUEBERRIES 50cal 140g ",
+            "GUACAMOLE 89cal 28g ",
+            "YELLOW ONIONS 30cal 148g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Hot dog, turkey 223cal ~g ",
+            "BARBEQUE SAUCE 161cal 31g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "lunch": [
+            "SHRIMP 47cal 85g ",
+            "Tomatoes, raw 20cal ~g ",
+            "Ranch dressing 430cal ~g "
+        ],
+        "dinner": [
+            "SOURCREAM 167cal 30g ",
+            "TILAPIA 116cal 112g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "BLACKBERRIES 71cal 140g ",
+            "SPINACH 24cal 85g ",
+            "FARMER CHEESE 92cal 142g "
+        ],
+        "lunch": [
+            "ASPARAGUS 18cal 85g ",
+            "CURRY SEASONING 62cal 16g ",
+            "CILANTRO 0cal 1g "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Lamb, chop 264cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ]
+    }
+}

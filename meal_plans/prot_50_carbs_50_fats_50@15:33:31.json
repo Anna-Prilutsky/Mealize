@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "HALF AND HALF 133cal 30g ",
+            "Hot dog, turkey 223cal ~g ",
+            "BLACKBERRIES 71cal 140g "
+        ],
+        "lunch": [
+            "TURKEY BACON 179cal 14g ",
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "GROUND PORK 259cal 112g "
+        ],
+        "dinner": [
+            "Ranch dressing 430cal ~g ",
+            "CAULIFLOWER 18cal 85g ",
+            "TURKEY BREAST 123cal 57g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "YELLOW ONIONS 30cal 148g ",
+            "RED ONION 30cal 148g ",
+            "Coconut milk 31cal ~g "
+        ],
+        "lunch": [
+            "BLUEBERRIES 50cal 140g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "dinner": [
+            "BLACKBERRIES 71cal 140g ",
+            "BRIE 357cal 28g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CURRY SEASONING 62cal 16g ",
+            "CAULIFLOWER 18cal 85g ",
+            "Bacon strip, meatless 309cal ~g "
+        ],
+        "lunch": [
+            "RED ONION 30cal 148g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "CHIVES 0cal 0g "
+        ],
+        "dinner": [
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Bean dip, made with refried beans 119cal ~g ",
+            "Hot dog, turkey 223cal ~g ",
+            "GUACAMOLE 89cal 28g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "HALF AND HALF 133cal 30g ",
+            "CURRY SEASONING 62cal 16g "
+        ],
+        "dinner": [
+            "BLACKBERRIES 71cal 140g ",
+            "Fried mushrooms 222cal ~g ",
+            "STRAWBERRIES 36cal 140g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "FLOUNDER 118cal 85g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "lunch": [
+            "CHICKEN WINGS 283cal 113g ",
+            "BARBEQUE SAUCE 161cal 31g ",
+            "Scallops, fried 217cal ~g "
+        ],
+        "dinner": [
+            "CILANTRO 0cal 1g ",
+            "BASIL 0cal 0g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "TURKEY BREAST 123cal 57g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal 201g "
+        ],
+        "lunch": [
+            "YELLOW ONIONS 30cal 148g ",
+            "YOGURT 94cal 170g ",
+            "SPINACH 24cal 85g "
+        ],
+        "dinner": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "SHRIMP 47cal 85g ",
+            "HUMMUS 321cal 28g "
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "SALMON 232cal 142g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "Carrots, raw 41cal ~g ",
+            "BLUEBERRIES 50cal 140g "
+        ],
+        "dinner": [
+            "SOURCREAM 167cal 30g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "CHICKEN SAUSAGE 123cal 57g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Lamb, chop 264cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "FETA CHEESE 286cal 28g "
+        ],
+        "lunch": [
+            "SPINACH 24cal 85g ",
+            "ARUGULA 24cal 85g ",
+            "FETA CHEESE 286cal 28g "
+        ],
+        "dinner": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "BARBEQUE SAUCE 161cal 31g ",
+            "Hot dog, turkey 223cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal 43g ",
+            "HUMMUS 321cal 28g ",
+            "WHOLE MILK 62cal 240g "
+        ],
+        "lunch": [
+            "FLOUNDER 118cal 85g ",
+            "MOZZARELLA CHEESE 267cal 30g ",
+            "BRUSSEL SPROUTS 41cal 85g "
+        ],
+        "dinner": [
+            "CURRY SEASONING 62cal 16g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g ",
+            "FARMER CHEESE 92cal 142g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "HALIBUT 106cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "HUMMUS 321cal 28g "
+        ],
+        "lunch": [
+            "CHICKEN BREAST 143cal 28g ",
+            "HALIBUT 106cal 170g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "SALMON 232cal 142g ",
+            "Fried mushrooms 222cal ~g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "SALMON 232cal 142g ",
+            "Fried mushrooms 222cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "GOAT CHEESE 386cal 28g ",
+            "OLIVES 133cal 15g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "COD 100cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "BRIE 357cal 28g "
+        ],
+        "lunch": [
+            "CURRY SEASONING 62cal 16g ",
+            "Cheese, Ricotta 148cal ~g ",
+            "CILANTRO 0cal 1g "
+        ],
+        "dinner": [
+            "OLIVES 133cal 15g ",
+            "ARUGULA 24cal 85g ",
+            "SMOKED SALMON 163cal 43g "
+        ]
+    }
+}

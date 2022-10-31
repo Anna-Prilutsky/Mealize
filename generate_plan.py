@@ -8,7 +8,7 @@ import argparse
 import json
 import random
 import psycopg2
-from flask import Flask, request
+from flask import Flask, request, jsonify
 from datetime import datetime
 from FoodItem import FoodItem as Ingredient
 #----------------------------------------------------------------#
@@ -148,7 +148,10 @@ def get_7day_western():
     filename = "meal_plans/" + "prot_" + str(int(constraints["protein"])) + "_" + "carbs_" + str(int(constraints["carbs"])) + "_" + "fats_" + str(int(constraints["fats"])) + "@" + datetime.now().strftime("%H:%M:%S") + ".json"
     with open(filename, "w") as file:
         json.dump(plan, file, indent=4)
-    return plan
+    response = jsonify(plan)
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    print(response)
+    return response
 #----------------------------------------------------------------#
 def main():
     parser = set_cmd_args()
@@ -158,8 +161,8 @@ def main():
         "carbs" : args.c,
         "fats" : args.f,
     }
-    plan = get_7day_western(constraints)
-    print(plan)
+    # plan = get_7day_western(constraints)
+    # print(plan)
     # print(constraints)
 
 #----------------------------------------------------------------#

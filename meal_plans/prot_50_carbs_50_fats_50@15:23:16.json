@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "SOURCREAM 167cal 30g ",
+            "CILANTRO 0cal 1g "
+        ],
+        "lunch": [
+            "FLOUNDER 118cal 85g ",
+            "EGGS 143cal 63g ",
+            "CHICKEN THIGH 193cal 114g "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "BRIE 357cal 28g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "GROUND TURKEY 196cal 112g ",
+            "TACO SEASONING 350cal 4g ",
+            "YELLOW ONIONS 30cal 148g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "BRIE 357cal 28g ",
+            "RASPBERRIES 50cal 140g "
+        ],
+        "dinner": [
+            "BASIL 0cal 0g ",
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Tomatoes, raw 20cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "FLOUNDER 118cal 85g ",
+            "OLIVES 133cal 15g ",
+            "SALMON 232cal 142g "
+        ],
+        "lunch": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "CHIVES 0cal 0g ",
+            "BRUSSEL SPROUTS 41cal 85g "
+        ],
+        "dinner": [
+            "HEAVY CREAM 333cal 15g ",
+            "ZUCCHINI 21cal 95g ",
+            "CHIVES 0cal 0g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Hot dog, turkey 223cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "lunch": [
+            "SALMON 232cal 142g ",
+            "SPINACH 24cal 85g ",
+            "BRIE 357cal 28g "
+        ],
+        "dinner": [
+            "GOAT CHEESE 386cal 28g ",
+            "ZUCCHINI 21cal 95g ",
+            "CHIVES 0cal 0g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CAULIFLOWER 18cal 85g ",
+            "CHIVES 0cal 0g ",
+            "CHICKEN WINGS 283cal 113g "
+        ],
+        "lunch": [
+            "COD 100cal 170g ",
+            "Ranch dressing 430cal ~g ",
+            "Beer, low carb 27cal ~g "
+        ],
+        "dinner": [
+            "SALAMI 393cal 28g ",
+            "Bean dip, made with refried beans 119cal ~g ",
+            "Romaine lettuce, raw 15cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "CHICKEN BREAST 143cal 28g ",
+            "BLUEBERRIES 50cal 140g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "lunch": [
+            "Tomato chili sauce 92cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g "
+        ],
+        "dinner": [
+            "CHIVES 0cal 0g ",
+            "CHICKEN WINGS 283cal 113g ",
+            "Hot dog, turkey 223cal ~g "
+        ]
+    }
+}

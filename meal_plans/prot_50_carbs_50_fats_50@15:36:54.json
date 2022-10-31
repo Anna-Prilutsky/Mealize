@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "TACO SEASONING 350cal 4g ",
+            "SHRIMP 47cal 85g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g "
+        ],
+        "lunch": [
+            "SALAMI 393cal 28g ",
+            "BLACKBERRIES 71cal 140g ",
+            "GROUND TURKEY 196cal 112g "
+        ],
+        "dinner": [
+            "GROUND PORK 259cal 112g ",
+            "CHIVES 0cal 0g ",
+            "CHICKEN SAUSAGE 123cal 57g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal 43g ",
+            "SWISS CHEESE 391cal 23g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "HUMMUS 321cal 28g "
+        ],
+        "dinner": [
+            "SPINACH 24cal 85g ",
+            "Soy milk 53cal ~g ",
+            "ZUCCHINI 21cal 95g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "SHRIMP 47cal 85g ",
+            "BLACKBERRIES 71cal 140g ",
+            "HUMMUS 321cal 28g "
+        ],
+        "lunch": [
+            "SALMON 232cal 142g ",
+            "Tomato chili sauce 92cal ~g ",
+            "Fried mushrooms 222cal ~g "
+        ],
+        "dinner": [
+            "RED ONION 30cal 148g ",
+            "GUACAMOLE 89cal 28g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Alfredo sauce 150cal ~g ",
+            "WHOLE MILK 62cal 240g ",
+            "Cheese, Ricotta 148cal ~g "
+        ],
+        "lunch": [
+            "STRAWBERRIES 36cal 140g ",
+            "Tomato chili sauce 92cal ~g ",
+            "Cheese, blue 353cal ~g "
+        ],
+        "dinner": [
+            "HALIBUT 106cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "HUMMUS 321cal 28g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "FETA CHEESE 286cal 28g ",
+            "GUACAMOLE 89cal 28g ",
+            "TILAPIA 116cal 112g "
+        ],
+        "lunch": [
+            "Carrots, raw 41cal ~g ",
+            "GROUND PORK 259cal 112g ",
+            "YELLOW ONIONS 30cal 148g "
+        ],
+        "dinner": [
+            "Pear, Asian, raw 42cal ~g ",
+            "BLACKBERRIES 71cal 140g ",
+            "Pork Loin Chop Boneless 134cal 112g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "TACO SEASONING 350cal 4g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g "
+        ],
+        "lunch": [
+            "CHEDDAR CHEESE 393cal 28g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "STRAWBERRIES 36cal 140g "
+        ],
+        "dinner": [
+            "CHEDDAR CHEESE 393cal 28g ",
+            "CAULIFLOWER 18cal 85g ",
+            "BLUEBERRIES 50cal 140g "
+        ]
+    }
+}

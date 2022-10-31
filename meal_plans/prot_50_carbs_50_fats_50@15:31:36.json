@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "GROUND TURKEY 196cal 112g ",
+            "ASPARAGUS 18cal 85g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Cheese, parmesan, grated 420cal ~g ",
+            "CAULIFLOWER 18cal 85g "
+        ],
+        "dinner": [
+            "FLOUNDER 118cal 85g ",
+            "Fried mushrooms 222cal ~g ",
+            "Bacon strip, meatless 309cal ~g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Beer, low carb 27cal ~g ",
+            "SPINACH 24cal 85g ",
+            "Soy milk 53cal ~g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "dinner": [
+            "COD 100cal 170g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "Bacon strip, meatless 309cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "TACO SEASONING 350cal 4g ",
+            "Bacon strip, meatless 309cal ~g ",
+            "MOZZARELLA CHEESE 267cal 30g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "dinner": [
+            "Cheese, parmesan, grated 420cal ~g ",
+            "FARMER CHEESE 92cal 142g ",
+            "Alfredo sauce 150cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "TURKEY BACON 179cal 14g ",
+            "CURRY SEASONING 62cal 16g ",
+            "YELLOW ONIONS 30cal 148g "
+        ],
+        "lunch": [
+            "Alfredo sauce 150cal ~g ",
+            "HALIBUT 106cal 170g ",
+            "Soy milk 53cal ~g "
+        ],
+        "dinner": [
+            "HUMMUS 321cal 28g ",
+            "GUACAMOLE 89cal 28g ",
+            "2% MILK 50cal 240g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "TURKEY BACON 179cal 14g ",
+            "COD 100cal 170g ",
+            "FARMER CHEESE 92cal 142g "
+        ],
+        "lunch": [
+            "COD 100cal 170g ",
+            "GROUND TURKEY 196cal 112g ",
+            "GROUND PORK 259cal 112g "
+        ],
+        "dinner": [
+            "STRAWBERRIES 36cal 140g ",
+            "HUMMUS 321cal 28g ",
+            "Lettuce, iceberg, raw 0cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "FETA CHEESE 286cal 28g "
+        ],
+        "lunch": [
+            "OLIVES 133cal 15g ",
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g "
+        ],
+        "dinner": [
+            "FLOUNDER 118cal 85g ",
+            "Fried mushrooms 222cal ~g ",
+            "HUMMUS 321cal 28g "
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "GROUND PORK 259cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "lunch": [
+            "CHICKEN BREAST 143cal 28g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "dinner": [
+            "CHIVES 0cal 0g ",
+            "Lettuce, iceberg, raw 0cal ~g ",
+            "STRAWBERRIES 36cal 140g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "BLUEBERRIES 50cal 140g ",
+            "Bean dip, made with refried beans 119cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "lunch": [
+            "PEPPER 333cal 3g ",
+            "EGGS 143cal 63g ",
+            "CHICKEN THIGH 193cal 114g "
+        ],
+        "dinner": [
+            "HALIBUT 106cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "Cheese, blue 353cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CHICKEN THIGH 193cal 114g ",
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Pear, Asian, raw 42cal ~g ",
+            "SALMON 232cal 142g "
+        ],
+        "dinner": [
+            "RASPBERRIES 50cal 140g ",
+            "Scallops, fried 217cal ~g ",
+            "TURKEY BREAST 123cal 57g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "TURKEY BACON 179cal 14g ",
+            "ASPARAGUS 18cal 85g ",
+            "Bacon strip, meatless 309cal ~g "
+        ],
+        "lunch": [
+            "ASPARAGUS 18cal 85g ",
+            "Cabbage, kimchi 15cal ~g ",
+            "Cabbage, kimchi 15cal ~g "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Baobab powder 250cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "BASIL 0cal 0g ",
+            "Chia seeds 486cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223cal ~g ",
+            "HALF AND HALF 133cal 30g ",
+            "PEPPER 333cal 3g "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Cheese, blue 353cal ~g ",
+            "EGGS 143cal 63g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Soy milk 53cal ~g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "CHIVES 0cal 0g "
+        ],
+        "lunch": [
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal 201g ",
+            "Beer, low carb 27cal ~g ",
+            "CHIVES 0cal 0g "
+        ],
+        "dinner": [
+            "GROUND TURKEY 196cal 112g ",
+            "Bean dip, made with refried beans 119cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ]
+    }
+}

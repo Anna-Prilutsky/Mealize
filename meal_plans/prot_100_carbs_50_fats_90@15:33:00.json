@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "TURKEY BREAST 123cal 57g ",
+            "Cheese, parmesan, grated 420cal ~g ",
+            "CHICKEN BREAST 143cal 28g "
+        ],
+        "lunch": [
+            "ZUCCHINI 21cal 95g ",
+            "Avocado dressing 427cal ~g ",
+            "FLOUNDER 118cal 85g "
+        ],
+        "dinner": [
+            "CACAO POWDER 400cal 20g ",
+            "TILAPIA 116cal 112g ",
+            "BRIE 357cal 28g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "GROUND TURKEY 196cal 112g ",
+            "Cheese, blue 353cal ~g ",
+            "BASIL 0cal 0g "
+        ],
+        "lunch": [
+            "BASIL 0cal 0g ",
+            "Carrots, raw 41cal ~g ",
+            "ARUGULA 24cal 85g "
+        ],
+        "dinner": [
+            "Cabbage, kimchi 15cal ~g ",
+            "2% MILK 50cal 240g ",
+            "Hot dog, turkey 223cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Tomatoes, raw 20cal ~g ",
+            "BRIE 357cal 28g ",
+            "YOGURT 94cal 170g "
+        ],
+        "lunch": [
+            "FETA CHEESE 286cal 28g ",
+            "EGGS 143cal 63g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ],
+        "dinner": [
+            "2% MILK 50cal 240g ",
+            "OLIVES 133cal 15g ",
+            "Bean dip, made with refried beans 119cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Cheese, Ricotta 148cal ~g ",
+            "CAULIFLOWER 18cal 85g ",
+            "FLOUNDER 118cal 85g "
+        ],
+        "lunch": [
+            "EGGS 143cal 63g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "WHOLE MILK 62cal 240g "
+        ],
+        "dinner": [
+            "YELLOW ONIONS 30cal 148g ",
+            "Duck sauce 245cal ~g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "YELLOW ONIONS 30cal 148g ",
+            "HALF AND HALF 133cal 30g ",
+            "Hot dog, turkey 223cal ~g "
+        ],
+        "lunch": [
+            "HALF AND HALF 133cal 30g ",
+            "WHOLE MILK 62cal 240g ",
+            "Scallops, fried 217cal ~g "
+        ],
+        "dinner": [
+            "RASPBERRIES 50cal 140g ",
+            "GROUND TURKEY 196cal 112g ",
+            "SALAMI 393cal 28g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "TURKEY BACON 179cal 14g ",
+            "Fried mushrooms 222cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "lunch": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g "
+        ],
+        "dinner": [
+            "SMOKED SALMON 163cal 43g ",
+            "HALF AND HALF 133cal 30g ",
+            "Alfredo sauce 150cal ~g "
+        ]
+    }
+}
