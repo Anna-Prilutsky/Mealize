@@ -136,6 +136,9 @@ def get_7day_western():
     #     json.dump(plan, file, indent=4)
     response = jsonify(plan)
     response.headers.add('Access-Control-Allow-Origin', '*')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+    response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+  
     print(response)
     return response
 #----------------------------------------------------------------#
