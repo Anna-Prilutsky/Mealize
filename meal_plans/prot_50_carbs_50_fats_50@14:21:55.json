@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "SALAMI 393cal Gg ",
+            "HALF AND HALF 133cal Gg ",
+            "SPINACH 24cal Gg "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "BRUSSEL SPROUTS 41cal Gg ",
+            "COD 100cal Gg "
+        ],
+        "dinner": [
+            "EGGS 143cal Gg ",
+            "TILAPIA 116cal Gg ",
+            "CAULIFLOWER 18cal Gg "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Hot dog, turkey 223cal Gg ",
+            "Cheese, blue 353cal Gg ",
+            "COD 100cal Gg "
+        ],
+        "lunch": [
+            "TURKEY BREAST 123cal Gg ",
+            "OLIVES 133cal Gg ",
+            "CHEDDAR CHEESE 393cal Gg "
+        ],
+        "dinner": [
+            "ARUGULA 24cal Gg ",
+            "TILAPIA 116cal Gg ",
+            "GROUND PORK 259cal Gg "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Romaine lettuce, raw 15cal Gg ",
+            "CILANTRO 0cal Gg ",
+            "Avocado dressing 427cal Gg "
+        ],
+        "lunch": [
+            "ARUGULA 24cal Gg ",
+            "TURKEY BACON 179cal Gg ",
+            "BRUSSEL SPROUTS 41cal Gg "
+        ],
+        "dinner": [
+            "HEAVY CREAM 333cal Gg ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal Gg ",
+            "ZUCCHINI 21cal Gg "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Pear, Asian, raw 42cal Gg ",
+            "CAULIFLOWER 18cal Gg ",
+            "ZUCCHINI 21cal Gg "
+        ],
+        "lunch": [
+            "WHOLE MILK 62cal Gg ",
+            "CHICKEN THIGH 193cal Gg ",
+            "Scallops, fried 217cal Gg "
+        ],
+        "dinner": [
+            "Lamb, chop 264cal Gg ",
+            "SPINACH 24cal Gg ",
+            "Chia seeds 486cal Gg "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Alfredo sauce 150cal Gg ",
+            "Cabbage, kimchi 15cal Gg ",
+            "STRAWBERRIES 36cal Gg "
+        ],
+        "lunch": [
+            "TILAPIA 116cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "SOURCREAM 167cal Gg "
+        ],
+        "dinner": [
+            "Cucumber salad made with cucumber and vinegar 34cal Gg ",
+            "YELLOW ONIONS 30cal Gg ",
+            "TACO SEASONING 350cal Gg "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "SOURCREAM 167cal Gg "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "FETA CHEESE 286cal Gg "
+        ],
+        "dinner": [
+            "Coconut milk 31cal Gg ",
+            "WHOLE MILK 62cal Gg ",
+            "GOAT CHEESE 386cal Gg "
+        ]
+    }
+}

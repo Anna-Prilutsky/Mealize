@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Cheese, Ricotta 148.0cal g ",
+            "Lamb, chop 264.0cal g ",
+            "SOURCREAM 167.0cal 30.0g "
+        ],
+        "lunch": [
+            "Bean dip, made with refried beans 119.0cal g ",
+            "SALAMI 393.0cal 28.0g ",
+            "OLIVES 133.0cal 15.0g "
+        ],
+        "dinner": [
+            "Scallops, fried 217.0cal g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal g ",
+            "GOAT CHEESE 386.0cal 28.0g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "MOZZARELLA CHEESE 267.0cal 30.0g ",
+            "SOURCREAM 167.0cal 30.0g ",
+            "GUACAMOLE 89.0cal 28.0g "
+        ],
+        "lunch": [
+            "Tomato chili sauce 92.0cal g ",
+            "CHIVES 0.0cal 0.10000000149011612g ",
+            "HALF AND HALF 133.0cal 30.0g "
+        ],
+        "dinner": [
+            "YOGURT 94.0cal 170.0g ",
+            "EGGS 143.0cal 63.0g ",
+            "SALMON 232.0cal 142.0g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Alfredo sauce 150.0cal g ",
+            "BLUEBERRIES 50.0cal 140.0g ",
+            "FETA CHEESE 286.0cal 28.0g "
+        ],
+        "lunch": [
+            "GROUND PORK 259.0cal 112.0g ",
+            "Fried mushrooms 222.0cal g ",
+            "HALF AND HALF 133.0cal 30.0g "
+        ],
+        "dinner": [
+            "FLOUNDER 118.0cal 85.0g ",
+            "Ranch dressing 430.0cal g ",
+            "Soy milk 53.0cal g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254.0cal g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254.0cal g ",
+            "Pear, Asian, raw 42.0cal g "
+        ],
+        "lunch": [
+            "CHEDDAR CHEESE 393.0cal 28.0g ",
+            "SMOKED SALMON 163.0cal 43.0g ",
+            "2% MILK 50.0cal 240.0g "
+        ],
+        "dinner": [
+            "Tomatoes, raw 20.0cal g ",
+            "Pork Loin Chop Boneless 134.0cal 112.0g ",
+            "BARBEQUE SAUCE 161.0cal 31.0g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CHICKEN BREAST 143.0cal 28.0g ",
+            "Cheese, blue 353.0cal g ",
+            "HALF AND HALF 133.0cal 30.0g "
+        ],
+        "lunch": [
+            "BASIL 0.0cal 0.30000001192092896g ",
+            "Avocado dressing 427.0cal g ",
+            "Beer, low carb 27.0cal g "
+        ],
+        "dinner": [
+            "GROUND PORK 259.0cal 112.0g ",
+            "FETA CHEESE 286.0cal 28.0g ",
+            "ZUCCHINI 21.0cal 95.0g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Scallops, fried 217.0cal g ",
+            "MOZZARELLA CHEESE 267.0cal 30.0g ",
+            "HALF AND HALF 133.0cal 30.0g "
+        ],
+        "lunch": [
+            "BRIE 357.0cal 28.0g ",
+            "CURRY SEASONING 62.0cal 16.0g ",
+            "Scallops, fried 217.0cal g "
+        ],
+        "dinner": [
+            "HALIBUT 106.0cal 170.0g ",
+            "FLOUNDER 118.0cal 85.0g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254.0cal g "
+        ]
+    }
+}

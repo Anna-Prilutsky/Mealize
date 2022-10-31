@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal Gg ",
+            "SWISS CHEESE 391cal Gg ",
+            "BLACKBERRIES 71cal Gg "
+        ],
+        "lunch": [
+            "ARUGULA 24cal Gg ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal Gg ",
+            "FARMER CHEESE 92cal Gg "
+        ],
+        "dinner": [
+            "Coconut milk 31cal Gg ",
+            "SHRIMP 47cal Gg ",
+            "HALIBUT 106cal Gg "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal Gg ",
+            "Scallops, fried 217cal Gg ",
+            "CURRY SEASONING 62cal Gg "
+        ],
+        "lunch": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal Gg ",
+            "Alfredo sauce 150cal Gg ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal Gg "
+        ],
+        "dinner": [
+            "GUACAMOLE 89cal Gg ",
+            "COD 100cal Gg ",
+            "MOZZARELLA CHEESE 267cal Gg "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "ASPARAGUS 18cal Gg ",
+            "CHIVES 0cal Gg ",
+            "Pork Loin Chop Boneless 134cal Gg "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal Gg ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal Gg ",
+            "CHICKEN SAUSAGE 123cal Gg "
+        ],
+        "dinner": [
+            "Soy milk 53cal Gg ",
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal Gg ",
+            "Bacon strip, meatless 309cal Gg "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "COD 100cal Gg ",
+            "SPINACH 24cal Gg ",
+            "SALMON 232cal Gg "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "Cheese, Ricotta 148cal Gg ",
+            "ZUCCHINI 21cal Gg "
+        ],
+        "dinner": [
+            "SHRIMP 47cal Gg ",
+            "SWISS CHEESE 391cal Gg ",
+            "Alfredo sauce 150cal Gg "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "CURRY SEASONING 62cal Gg ",
+            "Soy milk 53cal Gg "
+        ],
+        "lunch": [
+            "STRAWBERRIES 36cal Gg ",
+            "EGGS 143cal Gg ",
+            "Lettuce, iceberg, raw 0cal Gg "
+        ],
+        "dinner": [
+            "Cheese, Ricotta 148cal Gg ",
+            "CHICKEN WINGS 283cal Gg ",
+            "Bean dip, made with refried beans 119cal Gg "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Beer, low carb 27cal Gg ",
+            "Lettuce, iceberg, raw 0cal Gg ",
+            "ZUCCHINI 21cal Gg "
+        ],
+        "lunch": [
+            "SMOKED SALMON 163cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "HUMMUS 321cal Gg "
+        ],
+        "dinner": [
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal Gg ",
+            "FLOUNDER 118cal Gg ",
+            "OLIVES 133cal Gg "
+        ]
+    }
+}

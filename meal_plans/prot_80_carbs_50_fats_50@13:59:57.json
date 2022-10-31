@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Lettuce, iceberg, raw 0cal Gg ",
+            "BASIL 0cal Gg ",
+            "SWISS CHEESE 391cal Gg "
+        ],
+        "lunch": [
+            "SHRIMP 47cal Gg ",
+            "CHICKEN WINGS 283cal Gg ",
+            "BRUSSEL SPROUTS 41cal Gg "
+        ],
+        "dinner": [
+            "Scallops, fried 217cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "FETA CHEESE 286cal Gg "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "SHRIMP 47cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "SOURCREAM 167cal Gg "
+        ],
+        "lunch": [
+            "BASIL 0cal Gg ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal Gg ",
+            "STRAWBERRIES 36cal Gg "
+        ],
+        "dinner": [
+            "SMOKED SALMON 163cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "SOURCREAM 167cal Gg "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Carrots, raw 41cal Gg ",
+            "Ranch dressing 430cal Gg ",
+            "Beer, low carb 27cal Gg "
+        ],
+        "lunch": [
+            "BLACKBERRIES 71cal Gg ",
+            "MOZZARELLA CHEESE 267cal Gg ",
+            "TURKEY BACON 179cal Gg "
+        ],
+        "dinner": [
+            "Lettuce, iceberg, raw 0cal Gg ",
+            "YELLOW ONIONS 30cal Gg ",
+            "BRUSSEL SPROUTS 41cal Gg "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "TURKEY BREAST 123cal Gg ",
+            "CAULIFLOWER 18cal Gg ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal Gg "
+        ],
+        "lunch": [
+            "Bacon strip, meatless 309cal Gg ",
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "CHIVES 0cal Gg "
+        ],
+        "dinner": [
+            "RASPBERRIES 50cal Gg ",
+            "Coconut milk 31cal Gg ",
+            "Cucumber salad made with cucumber and vinegar 34cal Gg "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Romaine lettuce, raw 15cal Gg ",
+            "Cheese, parmesan, grated 420cal Gg ",
+            "Lettuce, iceberg, raw 0cal Gg "
+        ],
+        "lunch": [
+            "HUMMUS 321cal Gg ",
+            "FLOUNDER 118cal Gg ",
+            "WHOLE MILK 62cal Gg "
+        ],
+        "dinner": [
+            "2% MILK 50cal Gg ",
+            "BRUSSEL SPROUTS 41cal Gg ",
+            "RASPBERRIES 50cal Gg "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "OLIVES 133cal Gg "
+        ],
+        "lunch": [
+            "BASIL 0cal Gg ",
+            "TILAPIA 116cal Gg ",
+            "Ranch dressing 430cal Gg "
+        ],
+        "dinner": [
+            "Alfredo sauce 150cal Gg ",
+            "GOAT CHEESE 386cal Gg ",
+            "YELLOW ONIONS 30cal Gg "
+        ]
+    }
+}

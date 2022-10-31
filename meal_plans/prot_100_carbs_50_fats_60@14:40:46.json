@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Bacon strip, meatless 309cal ~g ",
+            "Alfredo sauce 150cal ~g ",
+            "Carrots, raw 41cal ~g "
+        ],
+        "lunch": [
+            "Cheese, Ricotta 148cal ~g ",
+            "SOURCREAM 167cal 30g ",
+            "SWISS CHEESE 391cal 23g "
+        ],
+        "dinner": [
+            "HALF AND HALF 133cal 30g ",
+            "Pear, Asian, raw 42cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "CHICKEN BREAST 143cal 28g ",
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal 201g "
+        ],
+        "lunch": [
+            "HUMMUS 321cal 28g ",
+            "Carrots, raw 41cal ~g ",
+            "RED ONION 30cal 148g "
+        ],
+        "dinner": [
+            "SWISS CHEESE 391cal 23g ",
+            "Beer, low carb 27cal ~g ",
+            "STRAWBERRIES 36cal 140g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "FLOUNDER 118cal 85g ",
+            "CHICKEN THIGH 193cal 114g ",
+            "CHIVES 0cal 0g "
+        ],
+        "lunch": [
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "BLUEBERRIES 50cal 140g ",
+            "BASIL 0cal 0g "
+        ],
+        "dinner": [
+            "TURKEY BREAST 123cal 57g ",
+            "SOURCREAM 167cal 30g ",
+            "Cheese, parmesan, grated 420cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "EGGS 143cal 63g ",
+            "CHIVES 0cal 0g ",
+            "CHICKEN WINGS 283cal 113g "
+        ],
+        "lunch": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "Lettuce, iceberg, raw 0cal ~g ",
+            "SALAMI 393cal 28g "
+        ],
+        "dinner": [
+            "EGGS 143cal 63g ",
+            "RED ONION 30cal 148g ",
+            "CHICKEN SAUSAGE 123cal 57g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CURRY SEASONING 62cal 16g ",
+            "ZUCCHINI 21cal 95g ",
+            "YOGURT 94cal 170g "
+        ],
+        "lunch": [
+            "OLIVES 133cal 15g ",
+            "FLOUNDER 118cal 85g ",
+            "STRAWBERRIES 36cal 140g "
+        ],
+        "dinner": [
+            "CHICKEN THIGH 193cal 114g ",
+            "Fried mushrooms 222cal ~g ",
+            "OLIVES 133cal 15g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Tomato chili sauce 92cal ~g ",
+            "CHICKEN THIGH 193cal 114g ",
+            "BRIE 357cal 28g "
+        ],
+        "lunch": [
+            "FLOUNDER 118cal 85g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "Beer, low carb 27cal ~g "
+        ],
+        "dinner": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "Beer, low carb 27cal ~g ",
+            "SPINACH 24cal 85g "
+        ]
+    }
+}

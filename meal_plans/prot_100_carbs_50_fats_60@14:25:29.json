@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "HALF AND HALF 133cal Gg "
+        ],
+        "lunch": [
+            "COD 100cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "FETA CHEESE 286cal Gg "
+        ],
+        "dinner": [
+            "Ranch dressing 430cal Gg ",
+            "HALIBUT 106cal Gg ",
+            "WHOLE MILK 62cal Gg "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "CHEDDAR CHEESE 393cal Gg "
+        ],
+        "lunch": [
+            "Cheese, Ricotta 148cal Gg ",
+            "CHICKEN THIGH 193cal Gg ",
+            "BLACKBERRIES 71cal Gg "
+        ],
+        "dinner": [
+            "Soy milk 53cal Gg ",
+            "CHIVES 0cal Gg ",
+            "TURKEY BREAST 123cal Gg "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "TILAPIA 116cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "Cheese, blue 353cal Gg "
+        ],
+        "lunch": [
+            "Romaine lettuce, raw 15cal Gg ",
+            "SPINACH 24cal Gg ",
+            "HALIBUT 106cal Gg "
+        ],
+        "dinner": [
+            "CHIVES 0cal Gg ",
+            "Beer, low carb 27cal Gg ",
+            "Fried mushrooms 222cal Gg "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "YOGURT 94cal Gg ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal Gg ",
+            "COD 100cal Gg "
+        ],
+        "lunch": [
+            "ARUGULA 24cal Gg ",
+            "Soy milk 53cal Gg ",
+            "MOZZARELLA CHEESE 267cal Gg "
+        ],
+        "dinner": [
+            "SMOKED SALMON 163cal Gg ",
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal Gg ",
+            "Alfredo sauce 150cal Gg "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CHICKEN BREAST 143cal Gg ",
+            "EGGS 143cal Gg ",
+            "MOZZARELLA CHEESE 267cal Gg "
+        ],
+        "lunch": [
+            "SHRIMP 47cal Gg ",
+            "Ranch dressing 430cal Gg ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal Gg "
+        ],
+        "dinner": [
+            "FARMER CHEESE 92cal Gg ",
+            "OLIVES 133cal Gg ",
+            "Carrots, raw 41cal Gg "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "BRUSSEL SPROUTS 41cal Gg ",
+            "Coconut milk 31cal Gg ",
+            "Cabbage, kimchi 15cal Gg "
+        ],
+        "lunch": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal Gg ",
+            "STRAWBERRIES 36cal Gg ",
+            "HALF AND HALF 133cal Gg "
+        ],
+        "dinner": [
+            "HUMMUS 321cal Gg ",
+            "TURKEY BREAST 123cal Gg ",
+            "COD 100cal Gg "
+        ]
+    }
+}

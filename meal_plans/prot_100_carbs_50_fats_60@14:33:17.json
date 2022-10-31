@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal Noneg ",
+            "CHEDDAR CHEESE 393cal 28g ",
+            "FLOUNDER 118cal 85g "
+        ],
+        "lunch": [
+            "SHRIMP 47cal 85g ",
+            "HEAVY CREAM 333cal 15g ",
+            "BRUSSEL SPROUTS 41cal 85g "
+        ],
+        "dinner": [
+            "GUACAMOLE 89cal 28g ",
+            "Lamb, chop 264cal Noneg ",
+            "CHIVES 0cal 0g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "YOGURT 94cal 170g ",
+            "GOAT CHEESE 386cal 28g ",
+            "Bean dip, made with refried beans 119cal Noneg "
+        ],
+        "lunch": [
+            "Romaine lettuce, raw 15cal Noneg ",
+            "Lamb, chop 264cal Noneg ",
+            "YOGURT 94cal 170g "
+        ],
+        "dinner": [
+            "GROUND TURKEY 196cal 112g ",
+            "CHICKEN THIGH 193cal 114g ",
+            "Cheese, Ricotta 148cal Noneg "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "RED ONION 30cal 148g ",
+            "YELLOW ONIONS 30cal 148g ",
+            "HALIBUT 106cal 170g "
+        ],
+        "lunch": [
+            "SMOKED SALMON 163cal 43g ",
+            "ASPARAGUS 18cal 85g ",
+            "Cheese, blue 353cal Noneg "
+        ],
+        "dinner": [
+            "CHEDDAR CHEESE 393cal 28g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal Noneg ",
+            "BRUSSEL SPROUTS 41cal 85g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "SOURCREAM 167cal 30g ",
+            "Bean dip, made with refried beans 119cal Noneg ",
+            "Pear, Asian, raw 42cal Noneg "
+        ],
+        "lunch": [
+            "HEAVY CREAM 333cal 15g ",
+            "BLUEBERRIES 50cal 140g ",
+            "Alfredo sauce 150cal Noneg "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "Fried mushrooms 222cal Noneg ",
+            "Cheese, blue 353cal Noneg "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Carrots, raw 41cal Noneg ",
+            "CURRY SEASONING 62cal 16g ",
+            "RASPBERRIES 50cal 140g "
+        ],
+        "lunch": [
+            "Romaine lettuce, raw 15cal Noneg ",
+            "SHRIMP 47cal 85g ",
+            "Tomatoes, raw 20cal Noneg "
+        ],
+        "dinner": [
+            "Beer, low carb 27cal Noneg ",
+            "HUMMUS 321cal 28g ",
+            "SHRIMP 47cal 85g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "CHICKEN BREAST 143cal 28g ",
+            "Fried mushrooms 222cal Noneg ",
+            "Lamb, chop 264cal Noneg "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Alfredo sauce 150cal Noneg ",
+            "COD 100cal 170g "
+        ],
+        "dinner": [
+            "Beer, low carb 27cal Noneg ",
+            "WHOLE MILK 62cal 240g ",
+            "YOGURT 94cal 170g "
+        ]
+    }
+}

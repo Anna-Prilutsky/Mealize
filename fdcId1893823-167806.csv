@@ -1,0 +1,103 @@
+FDC_ID,Ingredient Name,Type,Category,Calories,Calorie Units,Protein,Protein_units,Carbs,Carb_units,Fats,Fat_units,Serving Size,Units
+1893823,CHICKEN SAUSAGE,Protein,"Sausages, Hotdogs & Brats",123.0,KCAL,19.3,G,4.39,G,3.51,G,57.0,g
+2341579,"Hot dog, turkey",Carb,Frankfurters,223.0,KCAL,12.2,G,17.3,G,3.81,G,,
+2091893,SALAMI,Protein,"Pepperoni, Salami & Cold Cuts",393.0,KCAL,28.6,G,28.6,G,0.0,G,28.0,g
+2011881,SMOKED SALMON,Protein,Fish & Seafood,163.0,KCAL,20.9,G,8.14,G,0.0,G,43.0,g
+1899680,CHICKEN THIGH,Carb,"Frozen Poultry, Chicken & Turkey",193.0,KCAL,14.0,G,16.7,G,0.88,G,114.0,g
+2157166,STEAK,Fat,"Seasoning Mixes, Salts, Marinades & Tenderizers",556.0,KCAL,0.0,G,0.0,G,111.0,G,0.8999999761581421,g
+2342940,"Bacon strip, meatless",Carb,Processed soy products,309.0,KCAL,11.7,G,29.5,G,5.31,G,,
+1663044,EGGS,Protein,Eggs & Egg Substitutes,143.0,KCAL,12.7,G,9.52,G,0.0,G,63.0,g
+172608,"Lamb, Australian, ground,  85% lean / 15% fat, raw",Carb,"Lamb, Veal, and Game Products",255.0,KCAL,17.1,G,20.7,G,0.0,G,,
+174032,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",Protein,Beef Products,250.0,KCAL,25.9,G,15.4,G,0.0,G,,
+2337303,Pork Loin Chop Boneless,Protein,Meat/Poultry/Other Animals  Unprepared/Unprocessed,134.0,KCAL,18.8,G,6.25,G,0.0,G,112.0,g
+1887701,GROUND PORK,Carb,Other Meats,259.0,KCAL,14.3,G,22.3,G,0.89,G,112.0,g
+706626,GROUND TURKEY,Protein,"Poultry, Chicken & Turkey",196.0,KCAL,17.0,G,15.2,G,0.0,G,112.0,g
+2071464,FLOUNDER,Protein,Frozen Fish & Seafood,118.0,KCAL,22.4,G,1.76,G,0.0,G,85.0,g
+2092152,CHICKEN BREAST,Protein,"Pepperoni, Salami & Cold Cuts",143.0,KCAL,14.3,G,8.93,G,3.57,G,28.0,g
+2008423,TURKEY BACON,Protein,"Bacon, Sausages & Ribs",179.0,KCAL,14.3,G,14.3,G,7.14,G,14.0,g
+1899566,SHRIMP,Protein,Frozen Fish & Seafood,47.0,KCAL,11.8,G,0.0,G,0.0,G,85.0,g
+1888920,TURKEY BREAST,Protein,"Pepperoni, Salami & Cold Cuts",123.0,KCAL,28.1,G,0.88,G,0.0,G,57.0,g
+2099857,COD,Protein,Frozen Fish & Seafood,100.0,KCAL,12.4,G,2.94,G,5.29,G,170.0,g
+2016165,TILAPIA,Protein,Frozen Fish & Seafood,116.0,KCAL,18.8,G,3.57,G,1.79,G,112.0,g
+2341774,"Scallops, fried",Fat,Shellfish,217.0,KCAL,11.1,G,12.5,G,14.1,G,,
+2102965,YELLOW ONIONS,Fat,Pre-Packaged Fruit & Vegetables,30.0,KCAL,0.68,G,0.0,G,7.43,G,148.0,g
+1956233,ASPARAGUS,Fat,Pre-Packaged Fruit & Vegetables,18.0,KCAL,2.35,G,0.0,G,3.53,G,85.0,g
+2068502,BRUSSEL SPROUTS,Fat,Pre-Packaged Fruit & Vegetables,41.0,KCAL,3.53,G,0.0,G,9.41,G,85.0,g
+2342875,"Bean dip, made with refried beans",Fat,"Dips, gravies, other sauces",119.0,KCAL,5.44,G,3.7,G,15.9,G,,
+1962018,CAULIFLOWER,Fat,Frozen Vegetables,18.0,KCAL,0.0,G,0.0,G,3.53,G,85.0,g
+1868144,PECANS,Carb,"Popcorn, Peanuts, Seeds & Related Snacks",679.0,KCAL,10.7,G,71.4,G,17.9,G,28.0,g
+1905338,WALNUTS,Carb,"Popcorn, Peanuts, Seeds & Related Snacks",643.0,KCAL,14.3,G,60.7,G,17.9,G,28.0,g
+171247,"Cheese, parmesan, grated",Protein,Dairy and Egg Products,420.0,KCAL,28.4,G,27.8,G,13.9,G,,
+453820,FETA CHEESE,Carb,Cheese,286.0,KCAL,17.9,G,21.4,G,3.57,G,28.0,g
+1935019,GOAT CHEESE,Carb,Cheese,386.0,KCAL,25.0,G,32.1,G,0.0,G,28.0,g
+577578,GRAPESEED OIL,Carb,Vegetable & Cooking Oils,800.0,KCAL,0.0,G,93.3,G,0.0,G,15.0,ml
+2345739,Coconut oil,Carb,Salad dressings and vegetable oils,895.0,KCAL,0.0,G,99.1,G,0.84,G,,
+1028841,SALMON,Protein,Fish & Seafood,232.0,KCAL,19.0,G,15.5,G,0.0,G,142.0,g
+2100197,HALIBUT,Protein,Frozen Fish & Seafood,106.0,KCAL,20.6,G,1.76,G,0.0,G,170.0,g
+2341312,"Lamb, chop",Protein,"Lamb, goat, game",264.0,KCAL,27.4,G,16.3,G,0.0,G,,
+1906811,CHICKEN WINGS,Protein,Frozen Appetizers & Hors D'oeuvres,283.0,KCAL,18.6,G,18.6,G,0.0,G,113.0,g
+174036,"Beef, ground, 80% lean meat / 20% fat, raw",Carb,Beef Products,254.0,KCAL,17.2,G,20.0,G,0.0,G,,
+2345858,Duck sauce,Fat,Mustard and other condiments,245.0,KCAL,0.36,G,0.13,G,60.7,G,,
+1956289,ZUCCHINI,Fat,Pre-Packaged Fruit & Vegetables,21.0,KCAL,1.05,G,0.0,G,4.21,G,95.0,g
+2345580,Fried mushrooms,Fat,Fried vegetables,222.0,KCAL,4.63,G,12.9,G,21.9,G,,
+2129128,"CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI",Carb,Other Grains & Seeds,545.0,KCAL,27.3,G,36.4,G,27.3,G,11.0,g
+1889530,"CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM",Fat,Frozen Dinners & Entrees,208.0,KCAL,5.94,G,6.93,G,29.7,G,202.0,g
+2345232,"Tomatoes, raw",Fat,Tomatoes,20.0,KCAL,0.82,G,0.31,G,4.04,G,,
+1581588,RED ONION,Fat,Pre-Packaged Fruit & Vegetables,30.0,KCAL,0.68,G,0.0,G,6.76,G,148.0,g
+2345173,"Carrots, raw",Fat,Carrots,41.0,KCAL,0.93,G,0.24,G,9.58,G,,
+1889244,PEPPER,Fat,Herbs & Spices,333.0,KCAL,0.0,G,0.0,G,66.7,G,3.0,g
+2345341,Cucumber salad made with cucumber and vinegar,Fat,"Coleslaw, non-lettuce salads",34.0,KCAL,0.52,G,0.09,G,7.2,G,,
+721056,SPINACH,Fat,Pre-Packaged Fruit & Vegetables,24.0,KCAL,2.35,G,0.0,G,3.53,G,85.0,g
+485792,SPRING MIX,Fat,Candy,353.0,KCAL,0.0,G,0.0,G,91.2,G,34.0,g
+2345094,"Romaine lettuce, raw",Fat,Lettuce and lettuce salads,15.0,KCAL,1.36,G,0.15,G,2.87,G,,
+2346388,"Lettuce, iceberg, raw",Fat,Vegetables and Vegetable Products,0,,0.742,G,0.0738,G,3.37,G,,
+2071611,ARUGULA,Fat,Pre-Packaged Fruit & Vegetables,24.0,KCAL,2.35,G,0.59,G,3.53,G,85.0,g
+170392,"Cabbage, kimchi",Fat,Vegetables and Vegetable Products,15.0,KCAL,1.1,G,0.5,G,2.4,G,,
+399147,CILANTRO,Protein,Herbs & Spices,0.0,KCAL,0.0,G,0.0,G,0.0,G,0.5,g
+1927843,CHIVES,Protein,Herbs & Spices,0.0,KCAL,0.0,G,0.0,G,0.0,G,0.10000000149011612,g
+1485010,BASIL,Protein,Herbs & Spices,0.0,KCAL,0.0,G,0.0,G,0.0,G,0.30000001192092896,g
+2157220,MINT,Fat,Chewing Gum & Mints,526.0,KCAL,0.0,G,0.0,G,105.0,G,1.899999976158142,g
+486283,BLUEBERRIES,Fat,Frozen Fruit & Fruit Juice Concentrates,50.0,KCAL,0.71,G,0.71,G,12.1,G,140.0,g
+1905299,STRAWBERRIES,Fat,Frozen Fruit & Fruit Juice Concentrates,36.0,KCAL,0.71,G,0.0,G,9.29,G,140.0,g
+1776531,RASPBERRIES,Fat,Frozen Fruit & Fruit Juice Concentrates,50.0,KCAL,1.43,G,0.0,G,12.1,G,140.0,g
+2195954,BLACKBERRIES,Fat,Pre-Packaged Fruit & Vegetables,71.0,KCAL,1.43,G,0.36,G,15.7,G,140.0,g
+2346194,"Beer, low carb",Fat,Beer,27.0,KCAL,0.17,G,0.0,G,0.73,G,,
+1851006,BARBEQUE SAUCE,Fat,"Ketchup, Mustard, BBQ & Cheese Sauce",161.0,KCAL,0.0,G,0.0,G,35.5,G,31.0,g
+2343003,Pine nuts,Carb,Nuts and seeds,673.0,KCAL,13.7,G,68.4,G,13.1,G,,
+2074342,ALMONDS,Carb,"Popcorn, Peanuts, Seeds & Related Snacks",633.0,KCAL,23.3,G,56.7,G,13.3,G,30.0,g
+2343065,Chia seeds,Fat,Nuts and seeds,486.0,KCAL,16.5,G,30.7,G,42.1,G,,
+2342980,Macadamia nuts,Carb,Nuts and seeds,716.0,KCAL,7.79,G,76.1,G,12.8,G,,
+2027948,PUMPKIN SEEDS,Carb,"Popcorn, Peanuts, Seeds & Related Snacks",600.0,KCAL,23.3,G,46.7,G,13.3,G,30.0,g
+172175,"Cheese, blue",Carb,Dairy and Egg Products,353.0,KCAL,21.4,G,28.7,G,2.34,G,,
+1983534,BRIE,Carb,Cheese,357.0,KCAL,17.9,G,32.1,G,0.0,G,28.0,g
+2021566,SWISS CHEESE,Protein,Cheese,391.0,KCAL,26.1,G,26.1,G,4.35,G,23.0,g
+380742,MOZZARELLA CHEESE,Protein,Cheese,267.0,KCAL,20.0,G,20.0,G,3.33,G,30.0,g
+2057648,CHEDDAR CHEESE,Carb,Cheese,393.0,KCAL,21.4,G,28.6,G,3.57,G,28.0,g
+2345765,Avocado dressing,Carb,Salad dressings and vegetable oils,427.0,KCAL,1.9,G,43.3,G,7.36,G,,
+536533,OLIVES,Carb,"Pickles, Olives, Peppers & Relishes",133.0,KCAL,0.0,G,13.3,G,6.67,G,15.0,g
+2345743,Olive oil,Carb,Salad dressings and vegetable oils,900.0,KCAL,0.0,G,100.0,G,0.0,G,,
+2345732,Pesto sauce,Carb,"Dips, gravies, other sauces",580.0,KCAL,8.61,G,59.2,G,5.67,G,,
+2345769,Ranch dressing,Carb,Salad dressings and vegetable oils,430.0,KCAL,1.32,G,44.5,G,5.9,G,,
+2344750,"Pear, Asian, raw",Fat,Pears,42.0,KCAL,0.5,G,0.23,G,10.6,G,,
+2341213,Alfredo sauce,Carb,"Dips, gravies, other sauces",150.0,KCAL,2.37,G,15.2,G,1.48,G,,
+2345248,Tomato chili sauce,Fat,Tomato-based condiments,92.0,KCAL,2.5,G,0.3,G,19.8,G,,
+2341900,"Beef and potatoes with cream sauce, white sauce or mushroom sauce",Fat,Meat mixed dishes,101.0,KCAL,7.73,G,3.83,G,8.66,G,,
+1886359,HUMMUS,Carb,Dips & Salsa,321.0,KCAL,7.14,G,28.6,G,21.4,G,28.0,g
+1922901,GUACAMOLE,Fat,Dips & Salsa,89.0,KCAL,3.57,G,7.14,G,10.7,G,28.0,g
+2218695,"RED VELVET CAKE SQUARE, RED VELVET",Fat,"Cakes, Cupcakes, Snack Cakes",373.0,KCAL,0,,16.9,G,50.2,G,201.0,g
+1970812,HEAVY CREAM,Carb,Cream,333.0,KCAL,0.0,G,33.3,G,6.67,G,15.0,ml
+2340784,Soy milk,Fat,Milk substitutes,53.0,KCAL,3.41,G,2.05,G,5.22,G,,
+2257046,"Oat milk, unsweetened, plain, refrigerated",Fat,Beverages,0,,0.797,G,2.75,G,5.1,G,,
+2340794,Coconut milk,Fat,Milk substitutes,31.0,KCAL,0.21,G,2.08,G,2.92,G,,
+1875393,WHOLE MILK,Fat,Milk,62.0,KCAL,3.33,G,3.33,G,5.0,G,240.0,ml
+2303730,2% MILK,Fat,Milk,50.0,KCAL,3.33,G,2.08,G,4.58,G,240.0,ml
+1625646,HALF AND HALF,Carb,Cream,133.0,KCAL,3.33,G,11.7,G,3.33,G,30.0,ml
+1932883,BUTTER,Carb,Butter & Spread,714.0,KCAL,0.0,G,78.6,G,0.0,G,14.0,g
+2017294,SOURCREAM,Carb,Cream,167.0,KCAL,3.33,G,15.0,G,6.67,G,30.0,g
+2341153,"Cheese, Ricotta",Protein,Cottage/ricotta cheese,148.0,KCAL,9.6,G,9.46,G,6.0,G,,
+1933930,FARMER CHEESE,Protein,Cheese,92.0,KCAL,14.1,G,2.11,G,4.23,G,142.0,g
+463067,YOGURT,Fat,Yogurt,94.0,KCAL,2.94,G,2.94,G,15.9,G,170.0,ml
+1889053,TACO SEASONING,Protein,"Seasoning Mixes, Salts, Marinades & Tenderizers",350.0,KCAL,0.0,G,0.0,G,0.0,G,4.0,g
+2022283,CURRY SEASONING,Fat,"Seasoning Mixes, Salts, Marinades & Tenderizers",62.0,KCAL,0.0,G,0.0,G,12.5,G,16.0,g
+1064119,CACAO POWDER,Fat,Baking Additives & Extracts,400.0,KCAL,25.0,G,10.0,G,55.0,G,20.0,g
+167806,Baobab powder,Fat,Fruits and Fruit Juices,250.0,KCAL,3.69,G,0.47,G,79.6,G,,

@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "TURKEY BREAST 123cal 57g ",
+            "BASIL 0cal 0g ",
+            "YOGURT 94cal 170g "
+        ],
+        "lunch": [
+            "Pear, Asian, raw 42cal ~g ",
+            "RED ONION 30cal 148g ",
+            "Tomatoes, raw 20cal ~g "
+        ],
+        "dinner": [
+            "CHICKEN WINGS 283cal 113g ",
+            "HALF AND HALF 133cal 30g ",
+            "CHIVES 0cal 0g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "EGGS 143cal 63g ",
+            "Beer, low carb 27cal ~g ",
+            "Lamb, chop 264cal ~g "
+        ],
+        "lunch": [
+            "WHOLE MILK 62cal 240g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g ",
+            "Carrots, raw 41cal ~g "
+        ],
+        "dinner": [
+            "ARUGULA 24cal 85g ",
+            "PUMPKIN SEEDS 600cal 30g ",
+            "ARUGULA 24cal 85g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "TURKEY BREAST 123cal 57g ",
+            "YOGURT 94cal 170g "
+        ],
+        "lunch": [
+            "Lamb, chop 264cal ~g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal 201g "
+        ],
+        "dinner": [
+            "Soy milk 53cal ~g ",
+            "STRAWBERRIES 36cal 140g ",
+            "BASIL 0cal 0g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "TURKEY BREAST 123cal 57g ",
+            "ZUCCHINI 21cal 95g ",
+            "GROUND PORK 259cal 112g "
+        ],
+        "lunch": [
+            "BLUEBERRIES 50cal 140g ",
+            "GOAT CHEESE 386cal 28g ",
+            "BLUEBERRIES 50cal 140g "
+        ],
+        "dinner": [
+            "Cheese, blue 353cal ~g ",
+            "TILAPIA 116cal 112g ",
+            "GUACAMOLE 89cal 28g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "SWISS CHEESE 391cal 23g ",
+            "Cabbage, kimchi 15cal ~g ",
+            "Tomatoes, raw 20cal ~g "
+        ],
+        "lunch": [
+            "GROUND TURKEY 196cal 112g ",
+            "BRIE 357cal 28g ",
+            "ZUCCHINI 21cal 95g "
+        ],
+        "dinner": [
+            "STRAWBERRIES 36cal 140g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "FETA CHEESE 286cal 28g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "SALAMI 393cal 28g "
+        ],
+        "lunch": [
+            "YOGURT 94cal 170g ",
+            "Beer, low carb 27cal ~g ",
+            "TURKEY BACON 179cal 14g "
+        ],
+        "dinner": [
+            "CHEDDAR CHEESE 393cal 28g ",
+            "OLIVES 133cal 15g ",
+            "2% MILK 50cal 240g "
+        ]
+    }
+}

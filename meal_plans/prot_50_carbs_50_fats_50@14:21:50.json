@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "SALAMI 393cal Gg ",
+            "Soy milk 53cal Gg ",
+            "RED ONION 30cal Gg "
+        ],
+        "lunch": [
+            "CHICKEN BREAST 143cal Gg ",
+            "Coconut milk 31cal Gg ",
+            "TILAPIA 116cal Gg "
+        ],
+        "dinner": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal Gg ",
+            "CHICKEN THIGH 193cal Gg ",
+            "Cheese, parmesan, grated 420cal Gg "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "CHIVES 0cal Gg ",
+            "Cheese, parmesan, grated 420cal Gg ",
+            "FLOUNDER 118cal Gg "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal Gg ",
+            "Romaine lettuce, raw 15cal Gg ",
+            "Bean dip, made with refried beans 119cal Gg "
+        ],
+        "dinner": [
+            "Soy milk 53cal Gg ",
+            "CURRY SEASONING 62cal Gg ",
+            "GROUND PORK 259cal Gg "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CHEDDAR CHEESE 393cal Gg ",
+            "Pear, Asian, raw 42cal Gg ",
+            "CURRY SEASONING 62cal Gg "
+        ],
+        "lunch": [
+            "FLOUNDER 118cal Gg ",
+            "CHIVES 0cal Gg ",
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal Gg "
+        ],
+        "dinner": [
+            "TILAPIA 116cal Gg ",
+            "SOURCREAM 167cal Gg ",
+            "GROUND TURKEY 196cal Gg "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Cheese, parmesan, grated 420cal Gg ",
+            "Lettuce, iceberg, raw 0cal Gg ",
+            "CURRY SEASONING 62cal Gg "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "Cheese, blue 353cal Gg "
+        ],
+        "dinner": [
+            "HALIBUT 106cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "FETA CHEESE 286cal Gg "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "YOGURT 94cal Gg ",
+            "GROUND TURKEY 196cal Gg ",
+            "TACO SEASONING 350cal Gg "
+        ],
+        "lunch": [
+            "SALMON 232cal Gg ",
+            "ASPARAGUS 18cal Gg ",
+            "CHEDDAR CHEESE 393cal Gg "
+        ],
+        "dinner": [
+            "Fried mushrooms 222cal Gg ",
+            "Scallops, fried 217cal Gg ",
+            "TACO SEASONING 350cal Gg "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "SALMON 232cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "Alfredo sauce 150cal Gg "
+        ],
+        "lunch": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal Gg ",
+            "YELLOW ONIONS 30cal Gg ",
+            "RASPBERRIES 50cal Gg "
+        ],
+        "dinner": [
+            "TILAPIA 116cal Gg ",
+            "Tomatoes, raw 20cal Gg ",
+            "OLIVES 133cal Gg "
+        ]
+    }
+}

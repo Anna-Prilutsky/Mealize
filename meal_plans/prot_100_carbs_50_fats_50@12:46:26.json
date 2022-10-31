@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Hot dog, turkey 223.0cal g ",
+            "Fried mushrooms 222.0cal g ",
+            "HALF AND HALF 133.0cal 30.0g "
+        ],
+        "lunch": [
+            "Bacon strip, meatless 309.0cal g ",
+            "Cheese, Ricotta 148.0cal g ",
+            "TACO SEASONING 350.0cal 4.0g "
+        ],
+        "dinner": [
+            "EGGS 143.0cal 63.0g ",
+            "BASIL 0.0cal 0.30000001192092896g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101.0cal g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123.0cal 57.0g ",
+            "Cheese, blue 353.0cal g ",
+            "TACO SEASONING 350.0cal 4.0g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223.0cal g ",
+            "CHIVES 0.0cal 0.10000000149011612g ",
+            "CILANTRO 0.0cal 0.5g "
+        ],
+        "dinner": [
+            "HEAVY CREAM 333.0cal 15.0g ",
+            "BRUSSEL SPROUTS 41.0cal 85.0g ",
+            "Coconut milk 31.0cal g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CHICKEN THIGH 193.0cal 114.0g ",
+            "Hot dog, turkey 223.0cal g ",
+            "Beer, low carb 27.0cal g "
+        ],
+        "lunch": [
+            "COD 100.0cal 170.0g ",
+            "CAULIFLOWER 18.0cal 85.0g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254.0cal g "
+        ],
+        "dinner": [
+            "ZUCCHINI 21.0cal 95.0g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250.0cal g ",
+            "EGGS 143.0cal 63.0g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Lettuce, iceberg, raw 0cal g ",
+            "YOGURT 94.0cal 170.0g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545.0cal 11.0g "
+        ],
+        "lunch": [
+            "TURKEY BACON 179.0cal 14.0g ",
+            "Lettuce, iceberg, raw 0cal g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal g "
+        ],
+        "dinner": [
+            "BRIE 357.0cal 28.0g ",
+            "Soy milk 53.0cal g ",
+            "FLOUNDER 118.0cal 85.0g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "TURKEY BREAST 123.0cal 57.0g ",
+            "Pork Loin Chop Boneless 134.0cal 112.0g ",
+            "GUACAMOLE 89.0cal 28.0g "
+        ],
+        "lunch": [
+            "RASPBERRIES 50.0cal 140.0g ",
+            "Tomatoes, raw 20.0cal g ",
+            "Tomatoes, raw 20.0cal g "
+        ],
+        "dinner": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal g ",
+            "CILANTRO 0.0cal 0.5g ",
+            "HALF AND HALF 133.0cal 30.0g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Pork Loin Chop Boneless 134.0cal 112.0g ",
+            "RASPBERRIES 50.0cal 140.0g ",
+            "CHEDDAR CHEESE 393.0cal 28.0g "
+        ],
+        "lunch": [
+            "TILAPIA 116.0cal 112.0g ",
+            "Fried mushrooms 222.0cal g ",
+            "Cheese, blue 353.0cal g "
+        ],
+        "dinner": [
+            "STRAWBERRIES 36.0cal 140.0g ",
+            "Hot dog, turkey 223.0cal g ",
+            "ZUCCHINI 21.0cal 95.0g "
+        ]
+    }
+}

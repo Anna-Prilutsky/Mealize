@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "YELLOW ONIONS 30cal 148g ",
+            "CHIVES 0cal 0g ",
+            "RED ONION 30cal 148g "
+        ],
+        "lunch": [
+            "Carrots, raw 41cal 0g ",
+            "Cabbage, kimchi 15cal 0g ",
+            "Avocado dressing 427cal 0g "
+        ],
+        "dinner": [
+            "TURKEY BACON 179cal 14g ",
+            "Pear, Asian, raw 42cal 0g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal 0g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "HEAVY CREAM 333cal 15g ",
+            "ARUGULA 24cal 85g ",
+            "Lamb, chop 264cal 0g "
+        ],
+        "lunch": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal 0g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal 0g ",
+            "GROUND PORK 259cal 112g "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "OLIVES 133cal 15g ",
+            "MOZZARELLA CHEESE 267cal 30g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Carrots, raw 41cal 0g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "Lamb, chop 264cal 0g "
+        ],
+        "lunch": [
+            "Cucumber salad made with cucumber and vinegar 34cal 0g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g ",
+            "STRAWBERRIES 36cal 140g "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Fried mushrooms 222cal 0g ",
+            "HUMMUS 321cal 28g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "TILAPIA 116cal 112g ",
+            "Tomato chili sauce 92cal 0g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal 0g "
+        ],
+        "lunch": [
+            "2% MILK 50cal 240g ",
+            "SHRIMP 47cal 85g ",
+            "WHOLE MILK 62cal 240g "
+        ],
+        "dinner": [
+            "Fried mushrooms 222cal 0g ",
+            "Beer, low carb 27cal 0g ",
+            "BLACKBERRIES 71cal 140g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal 0g ",
+            "RED ONION 30cal 148g ",
+            "CURRY SEASONING 62cal 16g "
+        ],
+        "lunch": [
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "BLUEBERRIES 50cal 140g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g "
+        ],
+        "dinner": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal 0g ",
+            "Alfredo sauce 150cal 0g ",
+            "Cheese, parmesan, grated 420cal 0g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Tomato chili sauce 92cal 0g ",
+            "HUMMUS 321cal 28g ",
+            "COD 100cal 170g "
+        ],
+        "lunch": [
+            "CHICKEN BREAST 143cal 28g ",
+            "HALF AND HALF 133cal 30g ",
+            "CHICKEN THIGH 193cal 114g "
+        ],
+        "dinner": [
+            "CHICKEN WINGS 283cal 113g ",
+            "OLIVES 133cal 15g ",
+            "Pork Loin Chop Boneless 134cal 112g "
+        ]
+    }
+}

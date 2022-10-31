@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Coconut milk 31cal Gg ",
+            "CAULIFLOWER 18cal Gg ",
+            "ZUCCHINI 21cal Gg "
+        ],
+        "lunch": [
+            "SOURCREAM 167cal Gg ",
+            "CILANTRO 0cal Gg ",
+            "Lamb, chop 264cal Gg "
+        ],
+        "dinner": [
+            "TURKEY BACON 179cal Gg ",
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "GUACAMOLE 89cal Gg "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "HALIBUT 106cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "HEAVY CREAM 333cal Gg "
+        ],
+        "lunch": [
+            "EGGS 143cal Gg ",
+            "CHICKEN THIGH 193cal Gg ",
+            "Coconut milk 31cal Gg "
+        ],
+        "dinner": [
+            "FLOUNDER 118cal Gg ",
+            "CHICKEN SAUSAGE 123cal Gg ",
+            "GOAT CHEESE 386cal Gg "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "BARBEQUE SAUCE 161cal Gg ",
+            "TACO SEASONING 350cal Gg ",
+            "CHEDDAR CHEESE 393cal Gg "
+        ],
+        "lunch": [
+            "CURRY SEASONING 62cal Gg ",
+            "STRAWBERRIES 36cal Gg ",
+            "ZUCCHINI 21cal Gg "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal Gg ",
+            "GROUND PORK 259cal Gg "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "HALIBUT 106cal Gg ",
+            "FLOUNDER 118cal Gg ",
+            "OLIVES 133cal Gg "
+        ],
+        "lunch": [
+            "Cheese, Ricotta 148cal Gg ",
+            "BARBEQUE SAUCE 161cal Gg ",
+            "Soy milk 53cal Gg "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal Gg ",
+            "HEAVY CREAM 333cal Gg ",
+            "Cucumber salad made with cucumber and vinegar 34cal Gg "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal Gg ",
+            "Alfredo sauce 150cal Gg ",
+            "HUMMUS 321cal Gg "
+        ],
+        "lunch": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal Gg ",
+            "Tomato chili sauce 92cal Gg ",
+            "EGGS 143cal Gg "
+        ],
+        "dinner": [
+            "CHICKEN BREAST 143cal Gg ",
+            "Coconut milk 31cal Gg ",
+            "Cheese, Ricotta 148cal Gg "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal Gg ",
+            "CURRY SEASONING 62cal Gg ",
+            "SOURCREAM 167cal Gg "
+        ],
+        "lunch": [
+            "SWISS CHEESE 391cal Gg ",
+            "ASPARAGUS 18cal Gg ",
+            "ASPARAGUS 18cal Gg "
+        ],
+        "dinner": [
+            "WHOLE MILK 62cal Gg ",
+            "GUACAMOLE 89cal Gg ",
+            "Bean dip, made with refried beans 119cal Gg "
+        ]
+    }
+}

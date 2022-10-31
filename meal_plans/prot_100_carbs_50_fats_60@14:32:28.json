@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "CAULIFLOWER 18cal Gg ",
+            "Romaine lettuce, raw 15cal Gg ",
+            "Cabbage, kimchi 15cal Gg "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "Alfredo sauce 150cal Gg "
+        ],
+        "dinner": [
+            "Romaine lettuce, raw 15cal Gg ",
+            "SMOKED SALMON 163cal Gg ",
+            "FARMER CHEESE 92cal Gg "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "GROUND TURKEY 196cal Gg ",
+            "TACO SEASONING 350cal Gg ",
+            "Pork Loin Chop Boneless 134cal Gg "
+        ],
+        "lunch": [
+            "SALMON 232cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "SOURCREAM 167cal Gg "
+        ],
+        "dinner": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal Gg ",
+            "CAULIFLOWER 18cal Gg ",
+            "2% MILK 50cal Gg "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Lamb, chop 264cal Gg ",
+            "MOZZARELLA CHEESE 267cal Gg ",
+            "Carrots, raw 41cal Gg "
+        ],
+        "lunch": [
+            "Ranch dressing 430cal Gg ",
+            "CURRY SEASONING 62cal Gg ",
+            "Tomatoes, raw 20cal Gg "
+        ],
+        "dinner": [
+            "Romaine lettuce, raw 15cal Gg ",
+            "ASPARAGUS 18cal Gg ",
+            "OLIVES 133cal Gg "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "FLOUNDER 118cal Gg ",
+            "2% MILK 50cal Gg ",
+            "ARUGULA 24cal Gg "
+        ],
+        "lunch": [
+            "CAULIFLOWER 18cal Gg ",
+            "HUMMUS 321cal Gg ",
+            "CHICKEN WINGS 283cal Gg "
+        ],
+        "dinner": [
+            "GOAT CHEESE 386cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "ARUGULA 24cal Gg "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Lamb, chop 264cal Gg ",
+            "2% MILK 50cal Gg ",
+            "Cabbage, kimchi 15cal Gg "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "Bacon strip, meatless 309cal Gg "
+        ],
+        "dinner": [
+            "Hot dog, turkey 223cal Gg ",
+            "TACO SEASONING 350cal Gg ",
+            "Cheese, blue 353cal Gg "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal Gg ",
+            "Hot dog, turkey 223cal Gg ",
+            "SMOKED SALMON 163cal Gg "
+        ],
+        "lunch": [
+            "Cucumber salad made with cucumber and vinegar 34cal Gg ",
+            "Fried mushrooms 222cal Gg ",
+            "FARMER CHEESE 92cal Gg "
+        ],
+        "dinner": [
+            "Bean dip, made with refried beans 119cal Gg ",
+            "SOURCREAM 167cal Gg ",
+            "OLIVES 133cal Gg "
+        ]
+    }
+}
