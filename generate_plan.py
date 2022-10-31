@@ -115,39 +115,22 @@ def get_7day_western():
         "carbs" : float(request.args.get("carbs")),
         "fats" :  float(request.args.get("fats")),
     }
-    plan = {
-        "Sunday": {},
-        "Monday": {},
-        "Tuesday": {},
-        "Wednesday": {},
-        "Thursday": {},
-        "Saturday": {},
-    }
-    for day in plan:
-        plan[day] = {
+    plan = []
+    print("qoo\n\n")
+
+    for i in range(0,7):
+        print(plan)
+        day = {
             "breakfast": get_western_meal(constraints),
             "lunch": get_western_meal(constraints),
             "dinner": get_western_meal(constraints),
         }
-        # out = "#------------------------------------------------------#"
-        # out += day
-        # out += "\nBREAKFAST\n"
-        # for meal in plan[day]["breakfast"]:
-        #     out+= meal + "\n"
-        # out += "LUNCH\n"
-        # for meal in plan[day]["lunch"]:
-        #     out+= meal + "\n"
-        # out += "DINNER\n"
-        # for meal in plan[day]["dinner"]:
-        #     out+= meal + "\n"
-        # out +="#------------------------------------------------------#"
-        # print(out)
-    # json_obj = json.dumps(plan)
-    # print(json_obj)
-    # save to file 
-    filename = "meal_plans/" + "prot_" + str(int(constraints["protein"])) + "_" + "carbs_" + str(int(constraints["carbs"])) + "_" + "fats_" + str(int(constraints["fats"])) + "@" + datetime.now().strftime("%H:%M:%S") + ".json"
-    with open(filename, "w") as file:
-        json.dump(plan, file, indent=4)
+        plan.append(day)
+
+    # save to file
+    # filename = "meal_plans/" + "prot_" + str(int(constraints["protein"])) + "_" + "carbs_" + str(int(constraints["carbs"])) + "_" + "fats_" + str(int(constraints["fats"])) + "@" + datetime.now().strftime("%H:%M:%S") + ".json"
+    # with open(filename, "w") as file:
+    #     json.dump(plan, file, indent=4)
     response = jsonify(plan)
     response.headers.add('Access-Control-Allow-Origin', '*')
     print(response)
