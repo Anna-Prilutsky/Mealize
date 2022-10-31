@@ -6,6 +6,7 @@
 #----------------------------------------------------------------#
 import argparse
 import json
+from flask_cors import CORS
 import random
 import psycopg2
 from flask import Flask, request, jsonify
@@ -14,7 +15,7 @@ from FoodItem import FoodItem as Ingredient
 #----------------------------------------------------------------#
 
 app = Flask(__name__, template_folder = ".")
-
+cors = CORS(app)
 #----------------------------------------------------------------#
 def set_cmd_args():
     parser = argparse.ArgumentParser(description=
@@ -116,7 +117,6 @@ def get_7day_western():
         "fats" :  float(request.args.get("fats")),
     }
     plan = []
-    print("qoo\n\n")
 
     for i in range(0,7):
         print(plan)
