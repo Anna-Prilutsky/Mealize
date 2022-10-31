@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "CHICKEN BREAST 143cal 28g ",
+            "SWISS CHEESE 391cal 23g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "HUMMUS 321cal 28g ",
+            "OLIVES 133cal 15g "
+        ],
+        "dinner": [
+            "TURKEY BACON 179cal 14g ",
+            "SALMON 232cal 142g ",
+            "TACO SEASONING 350cal 4g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Lamb, chop 264cal ~g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "Cheese, Ricotta 148cal ~g "
+        ],
+        "lunch": [
+            "WHOLE MILK 62cal 240g ",
+            "ASPARAGUS 18cal 85g ",
+            "Avocado dressing 427cal ~g "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "FETA CHEESE 286cal 28g ",
+            "SPINACH 24cal 85g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "lunch": [
+            "FARMER CHEESE 92cal 142g ",
+            "GOAT CHEESE 386cal 28g ",
+            "Romaine lettuce, raw 15cal ~g "
+        ],
+        "dinner": [
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal 201g ",
+            "CILANTRO 0cal 1g ",
+            "2% MILK 50cal 240g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "TURKEY BACON 179cal 14g ",
+            "ARUGULA 24cal 85g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "lunch": [
+            "BARBEQUE SAUCE 161cal 31g ",
+            "HEAVY CREAM 333cal 15g ",
+            "COD 100cal 170g "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "OLIVES 133cal 15g ",
+            "BRIE 357cal 28g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "TURKEY BREAST 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "lunch": [
+            "EGGS 143cal 63g ",
+            "Cheese, blue 353cal ~g ",
+            "CHICKEN BREAST 143cal 28g "
+        ],
+        "dinner": [
+            "HALIBUT 106cal 170g ",
+            "Coconut milk 31cal ~g ",
+            "COD 100cal 170g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal 43g ",
+            "SALAMI 393cal 28g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g "
+        ],
+        "lunch": [
+            "COD 100cal 170g ",
+            "CHIVES 0cal 0g ",
+            "Coconut milk 31cal ~g "
+        ],
+        "dinner": [
+            "HALIBUT 106cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "GOAT CHEESE 386cal 28g "
+        ]
+    }
+}

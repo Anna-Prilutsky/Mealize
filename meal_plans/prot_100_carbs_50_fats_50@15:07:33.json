@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "BARBEQUE SAUCE 161cal 31g ",
+            "BLUEBERRIES 50cal 140g ",
+            "Cabbage, kimchi 15cal ~g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "BASIL 0cal 0g ",
+            "BRIE 357cal 28g "
+        ],
+        "dinner": [
+            "ZUCCHINI 21cal 95g ",
+            "CHICKEN THIGH 193cal 114g ",
+            "BASIL 0cal 0g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "RED ONION 30cal 148g ",
+            "Bacon strip, meatless 309cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "lunch": [
+            "CHICKEN BREAST 143cal 28g ",
+            "BARBEQUE SAUCE 161cal 31g ",
+            "Cheese, Ricotta 148cal ~g "
+        ],
+        "dinner": [
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g ",
+            "CAULIFLOWER 18cal 85g ",
+            "OLIVES 133cal 15g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "BARBEQUE SAUCE 161cal 31g ",
+            "CHICKEN WINGS 283cal 113g ",
+            "CHICKEN THIGH 193cal 114g "
+        ],
+        "lunch": [
+            "YELLOW ONIONS 30cal 148g ",
+            "SALMON 232cal 142g ",
+            "Carrots, raw 41cal ~g "
+        ],
+        "dinner": [
+            "GOAT CHEESE 386cal 28g ",
+            "BLACKBERRIES 71cal 140g ",
+            "HALIBUT 106cal 170g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "GROUND TURKEY 196cal 112g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "Cheese, blue 353cal ~g "
+        ],
+        "lunch": [
+            "TURKEY BREAST 123cal 57g ",
+            "CURRY SEASONING 62cal 16g ",
+            "BARBEQUE SAUCE 161cal 31g "
+        ],
+        "dinner": [
+            "YELLOW ONIONS 30cal 148g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "CHICKEN BREAST 143cal 28g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Alfredo sauce 150cal ~g ",
+            "YELLOW ONIONS 30cal 148g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "lunch": [
+            "Scallops, fried 217cal ~g ",
+            "WHOLE MILK 62cal 240g ",
+            "Cabbage, kimchi 15cal ~g "
+        ],
+        "dinner": [
+            "Cabbage, kimchi 15cal ~g ",
+            "Hot dog, turkey 223cal ~g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Cabbage, kimchi 15cal ~g ",
+            "SPINACH 24cal 85g ",
+            "CHICKEN WINGS 283cal 113g "
+        ],
+        "lunch": [
+            "CAULIFLOWER 18cal 85g ",
+            "CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM 208cal 202g ",
+            "BASIL 0cal 0g "
+        ],
+        "dinner": [
+            "SMOKED SALMON 163cal 43g ",
+            "STRAWBERRIES 36cal 140g ",
+            "Bacon strip, meatless 309cal ~g "
+        ]
+    }
+}

@@ -9,7 +9,7 @@
 import argparse
 import requests
 from datetime import datetime
-import random
+# import random
 import json
 #----------------------------------------------------------------#
 def set_cmd_args():

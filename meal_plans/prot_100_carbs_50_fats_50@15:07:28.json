@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "GUACAMOLE 89cal 28g ",
+            "BLACKBERRIES 71cal 140g ",
+            "CILANTRO 0cal 1g "
+        ],
+        "lunch": [
+            "Chia seeds 486cal ~g ",
+            "Romaine lettuce, raw 15cal ~g ",
+            "Hot dog, turkey 223cal ~g "
+        ],
+        "dinner": [
+            "CHIVES 0cal 0g ",
+            "BRIE 357cal 28g ",
+            "CHICKEN SAUSAGE 123cal 57g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "HALF AND HALF 133cal 30g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "SHRIMP 47cal 85g "
+        ],
+        "lunch": [
+            "Coconut milk 31cal ~g ",
+            "SWISS CHEESE 391cal 23g ",
+            "HALIBUT 106cal 170g "
+        ],
+        "dinner": [
+            "Hot dog, turkey 223cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Coconut milk 31cal ~g ",
+            "Bacon strip, meatless 309cal ~g ",
+            "CHIVES 0cal 0g "
+        ],
+        "lunch": [
+            "GROUND PORK 259cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "dinner": [
+            "HUMMUS 321cal 28g ",
+            "COD 100cal 170g ",
+            "ASPARAGUS 18cal 85g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "SHRIMP 47cal 85g ",
+            "SOURCREAM 167cal 30g ",
+            "HALIBUT 106cal 170g "
+        ],
+        "lunch": [
+            "TURKEY BREAST 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "HUMMUS 321cal 28g "
+        ],
+        "dinner": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "Cheese, blue 353cal ~g ",
+            "Beer, low carb 27cal ~g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CAULIFLOWER 18cal 85g ",
+            "RASPBERRIES 50cal 140g ",
+            "ZUCCHINI 21cal 95g "
+        ],
+        "lunch": [
+            "GOAT CHEESE 386cal 28g ",
+            "CAULIFLOWER 18cal 85g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "SMOKED SALMON 163cal 43g ",
+            "Tomato chili sauce 92cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal 43g ",
+            "CHEDDAR CHEESE 393cal 28g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "RASPBERRIES 50cal 140g ",
+            "GROUND TURKEY 196cal 112g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "dinner": [
+            "BLUEBERRIES 50cal 140g ",
+            "SALAMI 393cal 28g ",
+            "CILANTRO 0cal 1g "
+        ]
+    }
+}

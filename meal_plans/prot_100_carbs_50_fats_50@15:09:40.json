@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "ZUCCHINI 21cal 95g ",
+            "Fried mushrooms 222cal ~g ",
+            "Hot dog, turkey 223cal ~g "
+        ],
+        "lunch": [
+            "COD 100cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "EGGS 143cal 63g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "2% MILK 50cal 240g ",
+            "Coconut milk 31cal ~g ",
+            "HUMMUS 321cal 28g "
+        ],
+        "lunch": [
+            "SALAMI 393cal 28g ",
+            "Pear, Asian, raw 42cal ~g ",
+            "BASIL 0cal 0g "
+        ],
+        "dinner": [
+            "TILAPIA 116cal 112g ",
+            "SOURCREAM 167cal 30g ",
+            "Coconut milk 31cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "RASPBERRIES 50cal 140g ",
+            "YOGURT 94cal 170g ",
+            "PUMPKIN SEEDS 600cal 30g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "SHRIMP 47cal 85g ",
+            "GOAT CHEESE 386cal 28g "
+        ],
+        "dinner": [
+            "SMOKED SALMON 163cal 43g ",
+            "Fried mushrooms 222cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Cucumber salad made with cucumber and vinegar 34cal ~g ",
+            "Carrots, raw 41cal ~g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "Cheese, parmesan, grated 420cal ~g ",
+            "BARBEQUE SAUCE 161cal 31g ",
+            "CILANTRO 0cal 1g "
+        ],
+        "dinner": [
+            "CURRY SEASONING 62cal 16g ",
+            "WHOLE MILK 62cal 240g ",
+            "ARUGULA 24cal 85g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "BLUEBERRIES 50cal 140g ",
+            "Coconut milk 31cal ~g ",
+            "WHOLE MILK 62cal 240g "
+        ],
+        "lunch": [
+            "SHRIMP 47cal 85g ",
+            "Beer, low carb 27cal ~g ",
+            "Bacon strip, meatless 309cal ~g "
+        ],
+        "dinner": [
+            "Fried mushrooms 222cal ~g ",
+            "CHICKEN WINGS 283cal 113g ",
+            "TURKEY BACON 179cal 14g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Carrots, raw 41cal ~g ",
+            "SMOKED SALMON 163cal 43g ",
+            "GROUND TURKEY 196cal 112g "
+        ],
+        "lunch": [
+            "TURKEY BACON 179cal 14g ",
+            "Bean dip, made with refried beans 119cal ~g ",
+            "ARUGULA 24cal 85g "
+        ],
+        "dinner": [
+            "Cheese, Ricotta 148cal ~g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "RED ONION 30cal 148g "
+        ]
+    }
+}

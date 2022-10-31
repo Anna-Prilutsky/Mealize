@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "CILANTRO 0cal 1g ",
+            "RASPBERRIES 50cal 140g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "lunch": [
+            "WHOLE MILK 62cal 240g ",
+            "WHOLE MILK 62cal 240g ",
+            "COD 100cal 170g "
+        ],
+        "dinner": [
+            "Coconut milk 31cal ~g ",
+            "FARMER CHEESE 92cal 142g ",
+            "Soy milk 53cal ~g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Soy milk 53cal ~g ",
+            "FARMER CHEESE 92cal 142g ",
+            "CURRY SEASONING 62cal 16g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "dinner": [
+            "2% MILK 50cal 240g ",
+            "Cheese, parmesan, grated 420cal ~g ",
+            "Scallops, fried 217cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "SALAMI 393cal 28g ",
+            "ASPARAGUS 18cal 85g ",
+            "RED ONION 30cal 148g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "Bacon strip, meatless 309cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "BLACKBERRIES 71cal 140g ",
+            "SWISS CHEESE 391cal 23g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "Cheese, parmesan, grated 420cal ~g ",
+            "Tomato chili sauce 92cal ~g "
+        ],
+        "dinner": [
+            "2% MILK 50cal 240g ",
+            "MOZZARELLA CHEESE 267cal 30g ",
+            "Beer, low carb 27cal ~g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "RASPBERRIES 50cal 140g ",
+            "CAULIFLOWER 18cal 85g ",
+            "Cabbage, kimchi 15cal ~g "
+        ],
+        "lunch": [
+            "ASPARAGUS 18cal 85g ",
+            "ARUGULA 24cal 85g ",
+            "GROUND TURKEY 196cal 112g "
+        ],
+        "dinner": [
+            "CURRY SEASONING 62cal 16g ",
+            "Fried mushrooms 222cal ~g ",
+            "Coconut milk 31cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "EGGS 143cal 63g ",
+            "TILAPIA 116cal 112g ",
+            "SWISS CHEESE 391cal 23g "
+        ],
+        "lunch": [
+            "GROUND TURKEY 196cal 112g ",
+            "FARMER CHEESE 92cal 142g ",
+            "SWISS CHEESE 391cal 23g "
+        ],
+        "dinner": [
+            "Lettuce, iceberg, raw 0cal ~g ",
+            "GUACAMOLE 89cal 28g ",
+            "BRIE 357cal 28g "
+        ]
+    }
+}

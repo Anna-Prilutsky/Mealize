@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "RASPBERRIES 50cal 140g ",
+            "RED ONION 30cal 148g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "dinner": [
+            "Scallops, fried 217cal ~g ",
+            "YOGURT 94cal 170g ",
+            "GROUND TURKEY 196cal 112g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "YOGURT 94cal 170g ",
+            "CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM 208cal 202g ",
+            "CHIVES 0cal 0g "
+        ],
+        "lunch": [
+            "Fried mushrooms 222cal ~g ",
+            "COD 100cal 170g ",
+            "Tomato chili sauce 92cal ~g "
+        ],
+        "dinner": [
+            "Hot dog, turkey 223cal ~g ",
+            "BARBEQUE SAUCE 161cal 31g ",
+            "Cheese, blue 353cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "SHRIMP 47cal 85g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "Hot dog, turkey 223cal ~g "
+        ],
+        "lunch": [
+            "COD 100cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "dinner": [
+            "Cheese, blue 353cal ~g ",
+            "Beer, low carb 27cal ~g ",
+            "SPINACH 24cal 85g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "BRIE 357cal 28g ",
+            "Pear, Asian, raw 42cal ~g ",
+            "GUACAMOLE 89cal 28g "
+        ],
+        "lunch": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "TACO SEASONING 350cal 4g ",
+            "Hot dog, turkey 223cal ~g "
+        ],
+        "dinner": [
+            "SMOKED SALMON 163cal 43g ",
+            "Fried mushrooms 222cal ~g ",
+            "FETA CHEESE 286cal 28g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "TILAPIA 116cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "RED ONION 30cal 148g ",
+            "Lamb, chop 264cal ~g "
+        ],
+        "dinner": [
+            "2% MILK 50cal 240g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "COD 100cal 170g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Pear, Asian, raw 42cal ~g ",
+            "BLACKBERRIES 71cal 140g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g "
+        ],
+        "lunch": [
+            "HALIBUT 106cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "dinner": [
+            "ASPARAGUS 18cal 85g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ]
+    }
+}

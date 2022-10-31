@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "CAULIFLOWER 18cal 85g ",
+            "WHOLE MILK 62cal 240g ",
+            "Baobab powder 250cal ~g "
+        ],
+        "lunch": [
+            "STRAWBERRIES 36cal 140g ",
+            "CHICKEN WINGS 283cal 113g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ],
+        "dinner": [
+            "RED ONION 30cal 148g ",
+            "TURKEY BREAST 123cal 57g ",
+            "GOAT CHEESE 386cal 28g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "EGGS 143cal 63g ",
+            "CILANTRO 0cal 1g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "Scallops, fried 217cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "FETA CHEESE 286cal 28g "
+        ],
+        "dinner": [
+            "CHEDDAR CHEESE 393cal 28g ",
+            "CAULIFLOWER 18cal 85g ",
+            "Cabbage, kimchi 15cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CHICKEN THIGH 193cal 114g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "TURKEY BREAST 123cal 57g ",
+            "ARUGULA 24cal 85g "
+        ],
+        "dinner": [
+            "Coconut milk 31cal ~g ",
+            "Tomato chili sauce 92cal ~g ",
+            "ZUCCHINI 21cal 95g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "GROUND TURKEY 196cal 112g ",
+            "PEPPER 333cal 3g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "RED ONION 30cal 148g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "dinner": [
+            "FARMER CHEESE 92cal 142g ",
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "MOZZARELLA CHEESE 267cal 30g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Ranch dressing 430cal ~g ",
+            "Tomatoes, raw 20cal ~g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g "
+        ],
+        "lunch": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "Romaine lettuce, raw 15cal ~g ",
+            "SHRIMP 47cal 85g "
+        ],
+        "dinner": [
+            "ARUGULA 24cal 85g ",
+            "TURKEY BREAST 123cal 57g ",
+            "BARBEQUE SAUCE 161cal 31g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Hot dog, turkey 223cal ~g ",
+            "CHICKEN BREAST 143cal 28g ",
+            "CHIVES 0cal 0g "
+        ],
+        "lunch": [
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "CHICKEN THIGH 193cal 114g ",
+            "Carrots, raw 41cal ~g "
+        ],
+        "dinner": [
+            "Bean dip, made with refried beans 119cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g ",
+            "RASPBERRIES 50cal 140g "
+        ]
+    }
+}

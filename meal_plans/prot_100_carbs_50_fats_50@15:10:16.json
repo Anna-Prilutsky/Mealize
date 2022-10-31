@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "CURRY SEASONING 62cal 16g ",
+            "Hot dog, turkey 223cal ~g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g "
+        ],
+        "lunch": [
+            "CHICKEN BREAST 143cal 28g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g "
+        ],
+        "dinner": [
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "FETA CHEESE 286cal 28g ",
+            "Carrots, raw 41cal ~g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "RED ONION 30cal 148g ",
+            "ZUCCHINI 21cal 95g ",
+            "Beer, low carb 27cal ~g "
+        ],
+        "lunch": [
+            "ARUGULA 24cal 85g ",
+            "Cheese, parmesan, grated 420cal ~g ",
+            "2% MILK 50cal 240g "
+        ],
+        "dinner": [
+            "CHEDDAR CHEESE 393cal 28g ",
+            "Romaine lettuce, raw 15cal ~g ",
+            "Carrots, raw 41cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal 43g ",
+            "Fried mushrooms 222cal ~g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "2% MILK 50cal 240g ",
+            "HALIBUT 106cal 170g ",
+            "SHRIMP 47cal 85g "
+        ],
+        "dinner": [
+            "2% MILK 50cal 240g ",
+            "Lettuce, iceberg, raw 0cal ~g ",
+            "Cheese, blue 353cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "SHRIMP 47cal 85g ",
+            "GROUND PORK 259cal 112g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "BLACKBERRIES 71cal 140g ",
+            "SALAMI 393cal 28g ",
+            "SHRIMP 47cal 85g "
+        ],
+        "dinner": [
+            "Hot dog, turkey 223cal ~g ",
+            "HALIBUT 106cal 170g ",
+            "MOZZARELLA CHEESE 267cal 30g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Coconut milk 31cal ~g ",
+            "BASIL 0cal 0g "
+        ],
+        "lunch": [
+            "Alfredo sauce 150cal ~g ",
+            "Lamb, chop 264cal ~g ",
+            "BASIL 0cal 0g "
+        ],
+        "dinner": [
+            "FLOUNDER 118cal 85g ",
+            "EGGS 143cal 63g ",
+            "HEAVY CREAM 333cal 15g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "RED ONION 30cal 148g ",
+            "Carrots, raw 41cal ~g ",
+            "RED ONION 30cal 148g "
+        ],
+        "lunch": [
+            "TACO SEASONING 350cal 4g ",
+            "2% MILK 50cal 240g ",
+            "Lettuce, iceberg, raw 0cal ~g "
+        ],
+        "dinner": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "SHRIMP 47cal 85g "
+        ]
+    }
+}

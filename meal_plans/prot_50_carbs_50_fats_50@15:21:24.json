@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "GOAT CHEESE 386cal 28g ",
+            "CAULIFLOWER 18cal 85g ",
+            "CHICKEN THIGH 193cal 114g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223cal ~g ",
+            "COD 100cal 170g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "dinner": [
+            "CHICKEN THIGH 193cal 114g ",
+            "GROUND TURKEY 196cal 112g ",
+            "Alfredo sauce 150cal ~g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "SALMON 232cal 142g ",
+            "TURKEY BREAST 123cal 57g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "lunch": [
+            "CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM 208cal 202g ",
+            "BASIL 0cal 0g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "dinner": [
+            "SPINACH 24cal 85g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "2% MILK 50cal 240g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "TURKEY BACON 179cal 14g ",
+            "Scallops, fried 217cal ~g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "SHRIMP 47cal 85g ",
+            "Fried mushrooms 222cal ~g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "dinner": [
+            "Coconut milk 31cal ~g ",
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Cheese, parmesan, grated 420cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "COD 100cal 170g ",
+            "YOGURT 94cal 170g ",
+            "Romaine lettuce, raw 15cal ~g "
+        ],
+        "lunch": [
+            "CHIVES 0cal 0g ",
+            "Beer, low carb 27cal ~g ",
+            "FLOUNDER 118cal 85g "
+        ],
+        "dinner": [
+            "TURKEY BREAST 123cal 57g ",
+            "Bean dip, made with refried beans 119cal ~g ",
+            "CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM 208cal 202g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Scallops, fried 217cal ~g ",
+            "OLIVES 133cal 15g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "GUACAMOLE 89cal 28g ",
+            "CILANTRO 0cal 1g ",
+            "Fried mushrooms 222cal ~g "
+        ],
+        "dinner": [
+            "SMOKED SALMON 163cal 43g ",
+            "Fried mushrooms 222cal ~g ",
+            "OLIVES 133cal 15g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "MOZZARELLA CHEESE 267cal 30g ",
+            "CURRY SEASONING 62cal 16g ",
+            "MOZZARELLA CHEESE 267cal 30g "
+        ],
+        "lunch": [
+            "OLIVES 133cal 15g ",
+            "2% MILK 50cal 240g ",
+            "TILAPIA 116cal 112g "
+        ],
+        "dinner": [
+            "ARUGULA 24cal 85g ",
+            "CHICKEN WINGS 283cal 113g ",
+            "BASIL 0cal 0g "
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Cheese, blue 353cal ~g ",
+            "Carrots, raw 41cal ~g ",
+            "FARMER CHEESE 92cal 142g "
+        ],
+        "lunch": [
+            "2% MILK 50cal 240g ",
+            "Coconut milk 31cal ~g ",
+            "Cheese, Ricotta 148cal ~g "
+        ],
+        "dinner": [
+            "STRAWBERRIES 36cal 140g ",
+            "BLACKBERRIES 71cal 140g ",
+            "2% MILK 50cal 240g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "CAULIFLOWER 18cal 85g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g "
+        ],
+        "lunch": [
+            "BLACKBERRIES 71cal 140g ",
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "TURKEY BACON 179cal 14g "
+        ],
+        "dinner": [
+            "BARBEQUE SAUCE 161cal 31g ",
+            "Bacon strip, meatless 309cal ~g ",
+            "STRAWBERRIES 36cal 140g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CHICKEN BREAST 143cal 28g ",
+            "GROUND PORK 259cal 112g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "BASIL 0cal 0g ",
+            "BRIE 357cal 28g ",
+            "TACO SEASONING 350cal 4g "
+        ],
+        "dinner": [
+            "STRAWBERRIES 36cal 140g ",
+            "SMOKED SALMON 163cal 43g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "CHEDDAR CHEESE 393cal 28g ",
+            "ARUGULA 24cal 85g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "YOGURT 94cal 170g ",
+            "TILAPIA 116cal 112g "
+        ],
+        "dinner": [
+            "FLOUNDER 118cal 85g ",
+            "CILANTRO 0cal 1g ",
+            "WHOLE MILK 62cal 240g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "Cheese, blue 353cal ~g "
+        ],
+        "lunch": [
+            "FARMER CHEESE 92cal 142g ",
+            "Lamb, chop 264cal ~g ",
+            "Scallops, fried 217cal ~g "
+        ],
+        "dinner": [
+            "STRAWBERRIES 36cal 140g ",
+            "Tomato chili sauce 92cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "SMOKED SALMON 163cal 43g ",
+            "ARUGULA 24cal 85g "
+        ],
+        "lunch": [
+            "SHRIMP 47cal 85g ",
+            "SALAMI 393cal 28g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "dinner": [
+            "SMOKED SALMON 163cal 43g ",
+            "Alfredo sauce 150cal ~g ",
+            "HALIBUT 106cal 170g "
+        ]
+    }
+}

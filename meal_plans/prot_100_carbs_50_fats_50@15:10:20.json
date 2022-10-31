@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "ASPARAGUS 18cal 85g ",
+            "SOURCREAM 167cal 30g ",
+            "Soy milk 53cal ~g "
+        ],
+        "lunch": [
+            "SOURCREAM 167cal 30g ",
+            "OLIVES 133cal 15g ",
+            "STRAWBERRIES 36cal 140g "
+        ],
+        "dinner": [
+            "CHIVES 0cal 0g ",
+            "CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM 208cal 202g ",
+            "GOAT CHEESE 386cal 28g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "2% MILK 50cal 240g ",
+            "FETA CHEESE 286cal 28g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "dinner": [
+            "Beer, low carb 27cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALIBUT 106cal 170g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "CURRY SEASONING 62cal 16g ",
+            "TURKEY BREAST 123cal 57g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "Carrots, raw 41cal ~g ",
+            "BRUSSEL SPROUTS 41cal 85g "
+        ],
+        "dinner": [
+            "2% MILK 50cal 240g ",
+            "SALAMI 393cal 28g ",
+            "SALMON 232cal 142g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "BRIE 357cal 28g ",
+            "Pear, Asian, raw 42cal ~g ",
+            "YOGURT 94cal 170g "
+        ],
+        "lunch": [
+            "TURKEY BREAST 123cal 57g ",
+            "YELLOW ONIONS 30cal 148g ",
+            "SMOKED SALMON 163cal 43g "
+        ],
+        "dinner": [
+            "CAULIFLOWER 18cal 85g ",
+            "COD 100cal 170g ",
+            "SWISS CHEESE 391cal 23g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Scallops, fried 217cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "lunch": [
+            "STRAWBERRIES 36cal 140g ",
+            "EGGS 143cal 63g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g "
+        ],
+        "dinner": [
+            "WHOLE MILK 62cal 240g ",
+            "HUMMUS 321cal 28g ",
+            "Scallops, fried 217cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "TURKEY BACON 179cal 14g ",
+            "CURRY SEASONING 62cal 16g ",
+            "CHICKEN SAUSAGE 123cal 57g "
+        ],
+        "lunch": [
+            "GROUND TURKEY 196cal 112g ",
+            "CHEDDAR CHEESE 393cal 28g ",
+            "CURRY SEASONING 62cal 16g "
+        ],
+        "dinner": [
+            "GROUND PORK 259cal 112g ",
+            "STRAWBERRIES 36cal 140g ",
+            "CHICKEN WINGS 283cal 113g "
+        ]
+    }
+}

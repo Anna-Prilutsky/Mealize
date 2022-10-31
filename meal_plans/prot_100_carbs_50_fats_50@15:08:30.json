@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "YELLOW ONIONS 30cal 148g ",
+            "CURRY SEASONING 62cal 16g ",
+            "SWISS CHEESE 391cal 23g "
+        ],
+        "lunch": [
+            "BLACKBERRIES 71cal 140g ",
+            "CHIVES 0cal 0g ",
+            "BLUEBERRIES 50cal 140g "
+        ],
+        "dinner": [
+            "GROUND PORK 259cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "OLIVES 133cal 15g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "CHICKEN THIGH 193cal 114g ",
+            "Alfredo sauce 150cal ~g ",
+            "SALMON 232cal 142g "
+        ],
+        "lunch": [
+            "CILANTRO 0cal 1g ",
+            "CAULIFLOWER 18cal 85g ",
+            "FARMER CHEESE 92cal 142g "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Cheese, Ricotta 148cal ~g ",
+            "WHOLE MILK 62cal 240g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Fried mushrooms 222cal ~g ",
+            "ARUGULA 24cal 85g ",
+            "SWISS CHEESE 391cal 23g "
+        ],
+        "lunch": [
+            "SMOKED SALMON 163cal 43g ",
+            "TILAPIA 116cal 112g ",
+            "Carrots, raw 41cal ~g "
+        ],
+        "dinner": [
+            "SHRIMP 47cal 85g ",
+            "Fried mushrooms 222cal ~g ",
+            "HEAVY CREAM 333cal 15g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "Bacon strip, meatless 309cal ~g "
+        ],
+        "lunch": [
+            "CHIVES 0cal 0g ",
+            "BLUEBERRIES 50cal 140g ",
+            "Tomatoes, raw 20cal ~g "
+        ],
+        "dinner": [
+            "CHICKEN BREAST 143cal 28g ",
+            "HEAVY CREAM 333cal 15g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "SPINACH 24cal 85g ",
+            "SPINACH 24cal 85g ",
+            "PUMPKIN SEEDS 600cal 30g "
+        ],
+        "lunch": [
+            "TACO SEASONING 350cal 4g ",
+            "YOGURT 94cal 170g ",
+            "ZUCCHINI 21cal 95g "
+        ],
+        "dinner": [
+            "Cheese, parmesan, grated 420cal ~g ",
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "TURKEY BREAST 123cal 57g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "MOZZARELLA CHEESE 267cal 30g ",
+            "SWISS CHEESE 391cal 23g ",
+            "CILANTRO 0cal 1g "
+        ],
+        "lunch": [
+            "TURKEY BREAST 123cal 57g ",
+            "CILANTRO 0cal 1g ",
+            "EGGS 143cal 63g "
+        ],
+        "dinner": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "ASPARAGUS 18cal 85g ",
+            "HEAVY CREAM 333cal 15g "
+        ]
+    }
+}

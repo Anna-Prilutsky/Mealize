@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Beer, low carb 27cal ~g ",
+            "SOURCREAM 167cal 30g ",
+            "TILAPIA 116cal 112g "
+        ],
+        "lunch": [
+            "Scallops, fried 217cal ~g ",
+            "CAULIFLOWER 18cal 85g ",
+            "Cheese, Ricotta 148cal ~g "
+        ],
+        "dinner": [
+            "FLOUNDER 118cal 85g ",
+            "Hot dog, turkey 223cal ~g ",
+            "CHICKEN WINGS 283cal 113g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "HALIBUT 106cal 170g ",
+            "Romaine lettuce, raw 15cal ~g ",
+            "ASPARAGUS 18cal 85g "
+        ],
+        "lunch": [
+            "CILANTRO 0cal 1g ",
+            "CHICKEN BREAST 143cal 28g ",
+            "TURKEY BACON 179cal 14g "
+        ],
+        "dinner": [
+            "Scallops, fried 217cal ~g ",
+            "CHICKEN BREAST 143cal 28g ",
+            "Coconut milk 31cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "SPINACH 24cal 85g ",
+            "BLUEBERRIES 50cal 140g ",
+            "CHICKEN SAUSAGE 123cal 57g "
+        ],
+        "lunch": [
+            "SWISS CHEESE 391cal 23g ",
+            "Cabbage, kimchi 15cal ~g ",
+            "FLOUNDER 118cal 85g "
+        ],
+        "dinner": [
+            "ZUCCHINI 21cal 95g ",
+            "RASPBERRIES 50cal 140g ",
+            "Cheese, parmesan, grated 420cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "SHRIMP 47cal 85g ",
+            "Carrots, raw 41cal ~g ",
+            "FLOUNDER 118cal 85g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "CHEDDAR CHEESE 393cal 28g ",
+            "Lamb, chop 264cal ~g "
+        ],
+        "dinner": [
+            "FLOUNDER 118cal 85g ",
+            "BARBEQUE SAUCE 161cal 31g ",
+            "WHOLE MILK 62cal 240g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "HALF AND HALF 133cal 30g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "Fried mushrooms 222cal ~g "
+        ],
+        "lunch": [
+            "Soy milk 53cal ~g ",
+            "HEAVY CREAM 333cal 15g ",
+            "Coconut milk 31cal ~g "
+        ],
+        "dinner": [
+            "RASPBERRIES 50cal 140g ",
+            "SHRIMP 47cal 85g ",
+            "HALF AND HALF 133cal 30g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "TURKEY BREAST 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "HUMMUS 321cal 28g "
+        ],
+        "dinner": [
+            "HALIBUT 106cal 170g ",
+            "Cheese, blue 353cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ]
+    }
+}

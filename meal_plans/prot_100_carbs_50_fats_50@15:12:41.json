@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "SPINACH 24cal 85g ",
+            "Cheese, Ricotta 148cal ~g ",
+            "CHICKEN SAUSAGE 123cal 57g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223cal ~g ",
+            "CHICKEN WINGS 283cal 113g ",
+            "OLIVES 133cal 15g "
+        ],
+        "dinner": [
+            "CILANTRO 0cal 1g ",
+            "CHIVES 0cal 0g ",
+            "FLOUNDER 118cal 85g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "SALMON 232cal 142g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "RED ONION 30cal 148g "
+        ],
+        "lunch": [
+            "GROUND TURKEY 196cal 112g ",
+            "GROUND TURKEY 196cal 112g ",
+            "OLIVES 133cal 15g "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Cheese, blue 353cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Lamb, chop 264cal ~g ",
+            "STRAWBERRIES 36cal 140g ",
+            "BRIE 357cal 28g "
+        ],
+        "lunch": [
+            "SHRIMP 47cal 85g ",
+            "Fried mushrooms 222cal ~g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "dinner": [
+            "TURKEY BREAST 123cal 57g ",
+            "CHICKEN BREAST 143cal 28g ",
+            "Bacon strip, meatless 309cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "SOURCREAM 167cal 30g ",
+            "CAULIFLOWER 18cal 85g "
+        ],
+        "lunch": [
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "SMOKED SALMON 163cal 43g ",
+            "GUACAMOLE 89cal 28g "
+        ],
+        "dinner": [
+            "GUACAMOLE 89cal 28g ",
+            "2% MILK 50cal 240g ",
+            "SOURCREAM 167cal 30g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "SALMON 232cal 142g ",
+            "Beer, low carb 27cal ~g ",
+            "Beer, low carb 27cal ~g "
+        ],
+        "lunch": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "STRAWBERRIES 36cal 140g "
+        ],
+        "dinner": [
+            "Carrots, raw 41cal ~g ",
+            "FLOUNDER 118cal 85g ",
+            "HALF AND HALF 133cal 30g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "BRIE 357cal 28g ",
+            "Carrots, raw 41cal ~g ",
+            "FLOUNDER 118cal 85g "
+        ],
+        "lunch": [
+            "COD 100cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "Bacon strip, meatless 309cal ~g "
+        ],
+        "dinner": [
+            "SWISS CHEESE 391cal 23g ",
+            "SHRIMP 47cal 85g ",
+            "Cabbage, kimchi 15cal ~g "
+        ]
+    }
+}

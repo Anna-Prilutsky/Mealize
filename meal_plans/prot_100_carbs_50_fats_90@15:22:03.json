@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "STRAWBERRIES 36cal 140g ",
+            "TILAPIA 116cal 112g ",
+            "Tomato chili sauce 92cal ~g "
+        ],
+        "lunch": [
+            "TURKEY BREAST 123cal 57g ",
+            "SHRIMP 47cal 85g ",
+            "MOZZARELLA CHEESE 267cal 30g "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Cheese, parmesan, grated 420cal ~g ",
+            "Pear, Asian, raw 42cal ~g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "OLIVES 133cal 15g "
+        ],
+        "lunch": [
+            "TURKEY BACON 179cal 14g ",
+            "Fried mushrooms 222cal ~g ",
+            "FETA CHEESE 286cal 28g "
+        ],
+        "dinner": [
+            "Chia seeds 486cal ~g ",
+            "CHIVES 0cal 0g ",
+            "Lettuce, iceberg, raw 0cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "FLOUNDER 118cal 85g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "GROUND PORK 259cal 112g "
+        ],
+        "lunch": [
+            "FETA CHEESE 286cal 28g ",
+            "BLUEBERRIES 50cal 140g ",
+            "BRUSSEL SPROUTS 41cal 85g "
+        ],
+        "dinner": [
+            "Carrots, raw 41cal ~g ",
+            "MOZZARELLA CHEESE 267cal 30g ",
+            "CAULIFLOWER 18cal 85g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "ZUCCHINI 21cal 95g ",
+            "CHEDDAR CHEESE 393cal 28g ",
+            "ZUCCHINI 21cal 95g "
+        ],
+        "lunch": [
+            "GROUND PORK 259cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "OLIVES 133cal 15g "
+        ],
+        "dinner": [
+            "BASIL 0cal 0g ",
+            "Soy milk 53cal ~g ",
+            "HEAVY CREAM 333cal 15g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CHICKEN THIGH 193cal 114g ",
+            "YOGURT 94cal 170g ",
+            "SALMON 232cal 142g "
+        ],
+        "lunch": [
+            "ARUGULA 24cal 85g ",
+            "SHRIMP 47cal 85g ",
+            "FETA CHEESE 286cal 28g "
+        ],
+        "dinner": [
+            "Romaine lettuce, raw 15cal ~g ",
+            "FETA CHEESE 286cal 28g ",
+            "RASPBERRIES 50cal 140g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "SPINACH 24cal 85g ",
+            "TURKEY BREAST 123cal 57g ",
+            "Fried mushrooms 222cal ~g "
+        ],
+        "lunch": [
+            "CHIVES 0cal 0g ",
+            "OLIVES 133cal 15g ",
+            "Beer, low carb 27cal ~g "
+        ],
+        "dinner": [
+            "STRAWBERRIES 36cal 140g ",
+            "RASPBERRIES 50cal 140g ",
+            "TILAPIA 116cal 112g "
+        ]
+    }
+}

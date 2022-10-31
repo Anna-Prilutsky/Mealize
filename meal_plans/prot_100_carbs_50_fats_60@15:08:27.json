@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Fried mushrooms 222cal ~g ",
+            "GUACAMOLE 89cal 28g ",
+            "Cucumber salad made with cucumber and vinegar 34cal ~g "
+        ],
+        "lunch": [
+            "SPINACH 24cal 85g ",
+            "ARUGULA 24cal 85g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "dinner": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Bacon strip, meatless 309cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "BLUEBERRIES 50cal 140g ",
+            "ARUGULA 24cal 85g ",
+            "CHICKEN BREAST 143cal 28g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223cal ~g ",
+            "ARUGULA 24cal 85g ",
+            "RED VELVET CAKE SQUARE, RED VELVET 373cal 201g "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "FETA CHEESE 286cal 28g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM 208cal 202g ",
+            "Pear, Asian, raw 42cal ~g ",
+            "Cabbage, kimchi 15cal ~g "
+        ],
+        "lunch": [
+            "COD 100cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "dinner": [
+            "OLIVES 133cal 15g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "BLUEBERRIES 50cal 140g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "RED ONION 30cal 148g ",
+            "FARMER CHEESE 92cal 142g "
+        ],
+        "lunch": [
+            "GUACAMOLE 89cal 28g ",
+            "HALF AND HALF 133cal 30g ",
+            "CHEDDAR CHEESE 393cal 28g "
+        ],
+        "dinner": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "YOGURT 94cal 170g ",
+            "BARBEQUE SAUCE 161cal 31g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Tomatoes, raw 20cal ~g ",
+            "YOGURT 94cal 170g ",
+            "CHICKEN THIGH 193cal 114g "
+        ],
+        "lunch": [
+            "HALF AND HALF 133cal 30g ",
+            "EGGS 143cal 63g ",
+            "FARMER CHEESE 92cal 142g "
+        ],
+        "dinner": [
+            "CILANTRO 0cal 1g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "STRAWBERRIES 36cal 140g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "HEAVY CREAM 333cal 15g ",
+            "2% MILK 50cal 240g ",
+            "2% MILK 50cal 240g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223cal ~g ",
+            "Beer, low carb 27cal ~g ",
+            "CAULIFLOWER 18cal 85g "
+        ],
+        "dinner": [
+            "Romaine lettuce, raw 15cal ~g ",
+            "TURKEY BREAST 123cal 57g ",
+            "Tomato chili sauce 92cal ~g "
+        ]
+    }
+}

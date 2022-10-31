@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal 43g ",
+            "Coconut milk 31cal ~g ",
+            "HALIBUT 106cal 170g "
+        ],
+        "lunch": [
+            "RASPBERRIES 50cal 140g ",
+            "CHICKEN BREAST 143cal 28g ",
+            "EGGS 143cal 63g "
+        ],
+        "dinner": [
+            "OLIVES 133cal 15g ",
+            "GROUND TURKEY 196cal 112g ",
+            "TURKEY BACON 179cal 14g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "ASPARAGUS 18cal 85g ",
+            "TACO SEASONING 350cal 4g ",
+            "Hot dog, turkey 223cal ~g "
+        ],
+        "lunch": [
+            "CURRY SEASONING 62cal 16g ",
+            "CHICKEN THIGH 193cal 114g ",
+            "Cheese, parmesan, grated 420cal ~g "
+        ],
+        "dinner": [
+            "Soy milk 53cal ~g ",
+            "Pear, Asian, raw 42cal ~g ",
+            "OLIVES 133cal 15g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Tomatoes, raw 20cal ~g ",
+            "CHIVES 0cal 0g ",
+            "GUACAMOLE 89cal 28g "
+        ],
+        "lunch": [
+            "Cheese, parmesan, grated 420cal ~g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "Beer, low carb 27cal ~g "
+        ],
+        "dinner": [
+            "Hot dog, turkey 223cal ~g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "SMOKED SALMON 163cal 43g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "HUMMUS 321cal 28g "
+        ],
+        "lunch": [
+            "Cabbage, kimchi 15cal ~g ",
+            "BLUEBERRIES 50cal 140g ",
+            "Tomato chili sauce 92cal ~g "
+        ],
+        "dinner": [
+            "Scallops, fried 217cal ~g ",
+            "SHRIMP 47cal 85g ",
+            "Fried mushrooms 222cal ~g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "CURRY SEASONING 62cal 16g ",
+            "TURKEY BACON 179cal 14g ",
+            "Bacon strip, meatless 309cal ~g "
+        ],
+        "lunch": [
+            "CHIVES 0cal 0g ",
+            "SWISS CHEESE 391cal 23g ",
+            "FARMER CHEESE 92cal 142g "
+        ],
+        "dinner": [
+            "CAESAR'S, MAC & CHEESE MADE WITH RICE PASTA, PORTABELLO MUSHROOM, PORTABELLO MUSHROOM 208cal 202g ",
+            "SMOKED SALMON 163cal 43g ",
+            "STRAWBERRIES 36cal 140g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "TURKEY BREAST 123cal 57g ",
+            "GOAT CHEESE 386cal 28g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "HALIBUT 106cal 170g ",
+            "Fried mushrooms 222cal ~g ",
+            "GOAT CHEESE 386cal 28g "
+        ],
+        "dinner": [
+            "ZUCCHINI 21cal 95g ",
+            "Avocado dressing 427cal ~g ",
+            "CHICKEN SAUSAGE 123cal 57g "
+        ]
+    }
+}

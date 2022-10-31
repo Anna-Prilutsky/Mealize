@@ -5,7 +5,6 @@
 # macronutrient data.
 #----------------------------------------------------------------#
 import argparse
-import csv
 import json
 import random
 import psycopg2

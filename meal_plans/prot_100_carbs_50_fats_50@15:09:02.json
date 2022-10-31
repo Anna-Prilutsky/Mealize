@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Scallops, fried 217cal ~g ",
+            "Bacon strip, meatless 309cal ~g "
+        ],
+        "lunch": [
+            "CHIVES 0cal 0g ",
+            "BARBEQUE SAUCE 161cal 31g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "dinner": [
+            "BLACKBERRIES 71cal 140g ",
+            "Cheese, Ricotta 148cal ~g ",
+            "Pear, Asian, raw 42cal ~g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "TURKEY BACON 179cal 14g ",
+            "Fried mushrooms 222cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "lunch": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "TURKEY BREAST 123cal 57g ",
+            "SMOKED SALMON 163cal 43g "
+        ],
+        "dinner": [
+            "Tomatoes, raw 20cal ~g ",
+            "Hot dog, turkey 223cal ~g ",
+            "TILAPIA 116cal 112g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Romaine lettuce, raw 15cal ~g ",
+            "Tomatoes, raw 20cal ~g ",
+            "HALIBUT 106cal 170g "
+        ],
+        "lunch": [
+            "FLOUNDER 118cal 85g ",
+            "Fried mushrooms 222cal ~g ",
+            "BRIE 357cal 28g "
+        ],
+        "dinner": [
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "Carrots, raw 41cal ~g ",
+            "BARBEQUE SAUCE 161cal 31g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Tomatoes, raw 20cal ~g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g ",
+            "Pear, Asian, raw 42cal ~g "
+        ],
+        "lunch": [
+            "Hot dog, turkey 223cal ~g ",
+            "EGGS 143cal 63g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "dinner": [
+            "OLIVES 133cal 15g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "GUACAMOLE 89cal 28g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "WHOLE MILK 62cal 240g ",
+            "FETA CHEESE 286cal 28g ",
+            "CHICKEN WINGS 283cal 113g "
+        ],
+        "lunch": [
+            "BASIL 0cal 0g ",
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "Cheese, Ricotta 148cal ~g "
+        ],
+        "dinner": [
+            "Cheese, Ricotta 148cal ~g ",
+            "CHIVES 0cal 0g ",
+            "CAULIFLOWER 18cal 85g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "SALAMI 393cal 28g ",
+            "SMOKED SALMON 163cal 43g ",
+            "HALF AND HALF 133cal 30g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "SALAMI 393cal 28g ",
+            "Pear, Asian, raw 42cal ~g "
+        ],
+        "dinner": [
+            "SPINACH 24cal 85g ",
+            "SHRIMP 47cal 85g ",
+            "SALAMI 393cal 28g "
+        ]
+    }
+}

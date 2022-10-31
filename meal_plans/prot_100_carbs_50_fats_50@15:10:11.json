@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "Cheese, Ricotta 148cal ~g ",
+            "Tomato chili sauce 92cal ~g ",
+            "CAULIFLOWER 18cal 85g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "HUMMUS 321cal 28g "
+        ],
+        "dinner": [
+            "CHICKEN BREAST 143cal 28g ",
+            "Tomatoes, raw 20cal ~g ",
+            "TILAPIA 116cal 112g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "Tomatoes, raw 20cal ~g ",
+            "Cheese, parmesan, grated 420cal ~g ",
+            "CHICKEN THIGH 193cal 114g "
+        ],
+        "lunch": [
+            "YELLOW ONIONS 30cal 148g ",
+            "FLOUNDER 118cal 85g ",
+            "SHRIMP 47cal 85g "
+        ],
+        "dinner": [
+            "Fried mushrooms 222cal ~g ",
+            "CURRY SEASONING 62cal 16g ",
+            "Romaine lettuce, raw 15cal ~g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Hot dog, turkey 223cal ~g ",
+            "CAULIFLOWER 18cal 85g ",
+            "Tomatoes, raw 20cal ~g "
+        ],
+        "lunch": [
+            "CHIVES 0cal 0g ",
+            "Tomatoes, raw 20cal ~g ",
+            "Coconut milk 31cal ~g "
+        ],
+        "dinner": [
+            "HALF AND HALF 133cal 30g ",
+            "Coconut milk 31cal ~g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "GOAT CHEESE 386cal 28g ",
+            "BLACKBERRIES 71cal 140g ",
+            "SALMON 232cal 142g "
+        ],
+        "lunch": [
+            "BARBEQUE SAUCE 161cal 31g ",
+            "Beer, low carb 27cal ~g ",
+            "BRIE 357cal 28g "
+        ],
+        "dinner": [
+            "CHICKEN BREAST 143cal 28g ",
+            "Carrots, raw 41cal ~g ",
+            "Fried mushrooms 222cal ~g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "YELLOW ONIONS 30cal 148g ",
+            "SWISS CHEESE 391cal 23g ",
+            "Cheese, Ricotta 148cal ~g "
+        ],
+        "lunch": [
+            "TILAPIA 116cal 112g ",
+            "TURKEY BACON 179cal 14g ",
+            "2% MILK 50cal 240g "
+        ],
+        "dinner": [
+            "BRIE 357cal 28g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g ",
+            "Romaine lettuce, raw 15cal ~g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "HALF AND HALF 133cal 30g ",
+            "ASPARAGUS 18cal 85g ",
+            "Cheese, Ricotta 148cal ~g "
+        ],
+        "lunch": [
+            "TURKEY BACON 179cal 14g ",
+            "2% MILK 50cal 240g ",
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g "
+        ],
+        "dinner": [
+            "CILANTRO 0cal 1g ",
+            "EGGS 143cal 63g ",
+            "Hot dog, turkey 223cal ~g "
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "TACO SEASONING 350cal 4g ",
+            "Carrots, raw 41cal ~g ",
+            "BLACKBERRIES 71cal 140g "
+        ],
+        "lunch": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "WHOLE MILK 62cal 240g "
+        ],
+        "dinner": [
+            "Coconut milk 31cal ~g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "BARBEQUE SAUCE 161cal 31g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "FLOUNDER 118cal 85g ",
+            "EGGS 143cal 63g ",
+            "Cabbage, kimchi 15cal ~g "
+        ],
+        "lunch": [
+            "HUMMUS 321cal 28g ",
+            "BLACKBERRIES 71cal 140g ",
+            "Carrots, raw 41cal ~g "
+        ],
+        "dinner": [
+            "Romaine lettuce, raw 15cal ~g ",
+            "PUMPKIN SEEDS 600cal 30g ",
+            "SHRIMP 47cal 85g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Romaine lettuce, raw 15cal ~g ",
+            "Bean dip, made with refried beans 119cal ~g ",
+            "SHRIMP 47cal 85g "
+        ],
+        "lunch": [
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "dinner": [
+            "Hot dog, turkey 223cal ~g ",
+            "EGGS 143cal 63g ",
+            "HALIBUT 106cal 170g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "Scallops, fried 217cal ~g ",
+            "HEAVY CREAM 333cal 15g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "Cheese, blue 353cal ~g "
+        ],
+        "dinner": [
+            "Cheese, Ricotta 148cal ~g ",
+            "SMOKED SALMON 163cal 43g ",
+            "FLOUNDER 118cal 85g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "GROUND PORK 259cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "RASPBERRIES 50cal 140g ",
+            "TURKEY BACON 179cal 14g ",
+            "TILAPIA 116cal 112g "
+        ],
+        "dinner": [
+            "Coconut milk 31cal ~g ",
+            "STRAWBERRIES 36cal 140g ",
+            "YOGURT 94cal 170g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Beef and potatoes with cream sauce, white sauce or mushroom sauce 101cal ~g ",
+            "CURRY SEASONING 62cal 16g ",
+            "Tomatoes, raw 20cal ~g "
+        ],
+        "lunch": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "SALAMI 393cal 28g ",
+            "OLIVES 133cal 15g "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "2% MILK 50cal 240g ",
+            "Coconut milk 31cal ~g "
+        ]
+    }
+}

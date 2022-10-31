@@ -1,0 +1,104 @@
+{
+    "Sunday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "CHICKEN THIGH 193cal 114g ",
+            "HALIBUT 106cal 170g "
+        ],
+        "lunch": [
+            "FLOUNDER 118cal 85g ",
+            "Lamb, chop 264cal ~g ",
+            "EGGS 143cal 63g "
+        ],
+        "dinner": [
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "RASPBERRIES 50cal 140g ",
+            "YOGURT 94cal 170g "
+        ]
+    },
+    "Monday": {
+        "breakfast": [
+            "CHEDDAR CHEESE 393cal 28g ",
+            "BRUSSEL SPROUTS 41cal 85g ",
+            "CHIVES 0cal 0g "
+        ],
+        "lunch": [
+            "GROUND TURKEY 196cal 112g ",
+            "CHICKEN WINGS 283cal 113g ",
+            "CHICKEN BREAST 143cal 28g "
+        ],
+        "dinner": [
+            "Tomato chili sauce 92cal ~g ",
+            "2% MILK 50cal 240g ",
+            "GOAT CHEESE 386cal 28g "
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Lamb, chop 264cal ~g ",
+            "Soy milk 53cal ~g ",
+            "ZUCCHINI 21cal 95g "
+        ],
+        "lunch": [
+            "TURKEY BREAST 123cal 57g ",
+            "GUACAMOLE 89cal 28g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g "
+        ],
+        "dinner": [
+            "YOGURT 94cal 170g ",
+            "OLIVES 133cal 15g ",
+            "CHICKEN BREAST 143cal 28g "
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Lamb, Australian, ground,  85% lean / 15% fat, raw 255cal ~g ",
+            "Bean dip, made with refried beans 119cal ~g "
+        ],
+        "lunch": [
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "Oat milk, unsweetened, plain, refrigerated 0cal ~g ",
+            "Alfredo sauce 150cal ~g "
+        ],
+        "dinner": [
+            "TURKEY BREAST 123cal 57g ",
+            "Fried mushrooms 222cal ~g ",
+            "CANADIAN FLAX SEED BLEND WITH SPINACH, KALE & BROCCOLI 545cal 11g "
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Beef, ground, 80% lean meat / 20% fat, raw 254cal ~g ",
+            "Fried mushrooms 222cal ~g ",
+            "SOURCREAM 167cal 30g "
+        ],
+        "lunch": [
+            "SALMON 232cal 142g ",
+            "STRAWBERRIES 36cal 140g ",
+            "SALAMI 393cal 28g "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Fried mushrooms 222cal ~g ",
+            "HUMMUS 321cal 28g "
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "YELLOW ONIONS 30cal 148g ",
+            "CHICKEN SAUSAGE 123cal 57g ",
+            "COD 100cal 170g "
+        ],
+        "lunch": [
+            "TURKEY BREAST 123cal 57g ",
+            "BLUEBERRIES 50cal 140g ",
+            "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled 250cal ~g "
+        ],
+        "dinner": [
+            "Pork Loin Chop Boneless 134cal 112g ",
+            "Lamb, chop 264cal ~g ",
+            "GROUND PORK 259cal 112g "
+        ]
+    }
+}
